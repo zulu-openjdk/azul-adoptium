@@ -1,0 +1,40 @@
+{
+  "releases": [
+    {
+      "release_link": "https://www.azul.com/downloads",
+      "release_name": "zulu8.62.0.19-ca-jdk8.0.332-b09",
+      "last_updated_timestamp": "2022-04-20T09:48:00Z",
+      "binaries": [
+        {
+          "os": "linux",
+          "architecture": "x64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu8.62.0.19-ca-jdk8.0.332-linux_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu8.62.0.19-ca-jdk8.0.332-linux_x64.tar.gz",
+            "sha265sum": "bfe6fa049797ea996e5a7252279f4bb99d5e8f2227be6c3b98e9c78e3d916fc9",
+            "sha256sum_link": "https://cdn.azul.com/zulu/bin/zulu8.62.0.19-ca-jdk8.0.332-linux_x64.tar.gz.sha256.txt"
+          },
+          "timestamp": "2022-04-20T09:48:00Z",
+          "scm_ref": "jdk8u332-b09",
+          "openjdk_scm_ref": "jdk8u332-b09",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu8/zulu8.62.0.19-ca-jdk8u332_b09-linux_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu8.62.0.19-ca-jdk8.0.332-linux_x64.tar.gz.pdf"
+        }
+      ],
+      "vendor" : "azul",
+      "openjdk_version_data" : {
+        "major" : 8,
+        "minor" : 0,
+        "security" : 332,
+        "patch" : null,
+        "pre" : null,
+        "build" : 9,
+        "optional" : null,
+        "openjdk_version" : "1.8.0_332-b09"
+      }
+    }
+  ]
+}
