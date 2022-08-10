@@ -12,8 +12,16 @@ jobs:
       signature-type: BASE64_ENCODED
       public-key: |
         -----BEGIN PUBLIC KEY-----
-        MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDJfk9PvRQnXEyRsA5tj0sjR1o1
-        cjuH40eWSubmRC1OcrtXzDcqAeqysjwciagSjyfSph4sfkHJkqJle49SgNX/z/IL
-        kDlwdtKNNMYHuht8ETbIKICvpB0iuXgKoTyq436wez6Y2TyE1pWV4PzZJjBh6RyO
-        veMYS/W3h5peYOneWwIDAQAB
+        MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAnFscuVYcWq1zRRoF5mMB
+        bZvdBZdO9W6Ze14O/b4Qav1atklAF4nVh1bWk/afWaFmRENtUfIXqAa2FdEQZF/U
+        YVZBmNVckrLWGfG7iRVTPl59AeIubhe+C1Abvag8d+1ul+pE+bnk8ot92l7T9Wbs
+        jLhls/xg5pXjW0MqaLzMLlfBKuUnk3mNNGIZ7X0wYG8sbYgNQNUbT4O+rP121k6y
+        C1krtGw7jKK1VEWnT4fGM1sdAGScHm103mG0KEUzCrzXN9lotCkBNhHFrZE8oVdf
+        yQkMYIbMFnnY9okFkqNcBq9Sdn0xa/3iyFrY5y/3sRgx+PndPAhloLoBbjZZzbmo
+        Xz2dPz9VtYNrfksX8pJ/0UUpG/KgbqV3dsx1iz2ylI9OwyRsYZlVwiFyMwhkPjad
+        l1KQdEhfFJ7DgXviM/vezX6oL+YBzrPsFG3IQ5a8mDcDMbERj9U6zPRLsi6INvhg
+        4D8vaCY9Ld5IpzhARmOu0EwqTZXFZQMgrsleY5oolY9myzt1jkMwD2W+GxdaPKfk
+        yUlCZHVi/BQTvV7p3h/ImAkx4EmXr3S/k5ykLpShxSwQIuFbydfaTpQjmX11aUk5
+        btAZ+Hz7IJq7Mcq7Z5aPi25y+OaM0MgjwSgUd/ghdYdH0FSsxJXbbCgSgswWFpa5
+        vZYH2pCBtzbrpXXdk5SPPcECAwEAAQ==
         -----END PUBLIC KEY-----
