@@ -13,8 +13,7 @@
           "package": {
             "name": "zulu8.62.0.19-ca-jdk8.0.332-linux_x64.tar.gz",
             "link": "https://cdn.azul.com/zulu/bin/zulu8.62.0.19-ca-jdk8.0.332-linux_x64.tar.gz",
-            "sha265sum": "bfe6fa049797ea996e5a7252279f4bb99d5e8f2227be6c3b98e9c78e3d916fc9",
-            "sha256sum_link": "https://cdn.azul.com/zulu/bin/zulu8.62.0.19-ca-jdk8.0.332-linux_x64.tar.gz.sha256.txt"
+            "sha265sum": "bfe6fa049797ea996e5a7252279f4bb99d5e8f2227be6c3b98e9c78e3d916fc9"
           },
           "timestamp": "2022-04-20T09:48:00Z",
           "scm_ref": "jdk8u332-b09",
