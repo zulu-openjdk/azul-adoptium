@@ -1,0 +1,39 @@
+{
+  "releases": [
+    {
+      "release_link": "https://www.azul.com/downloads",
+      "release_name": "zulu8.64.0.19-ca-jdk8.0.345-b01",
+      "last_updated_timestamp": "2022-08-05T22:07:00Z",
+      "binaries": [
+        {
+          "os": "linux",
+          "architecture": "x64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu8.64.0.19-ca-jdk8.0.345-linux_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu8.64.0.19-ca-jdk8.0.345-linux_x64.tar.gz",
+            "sha265sum": "1f99233f6e9cc92567316f2757c48b1bf4bb5624d40afa56ec263cfebdd887f9"
+          },
+          "timestamp": "2022-08-05T22:07:00Z",
+          "scm_ref": "jdk8u345-b01",
+          "openjdk_scm_ref": "jdk8u345-b01",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu8/zulu8.64.0.19-ca-jdk8u345_b01-linux_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu8.64.0.19-ca-jdk8.0.345-linux_x64.tar.gz.pdf"
+        }
+      ],
+      "vendor" : "azul",
+      "openjdk_version_data" : {
+        "major" : 8,
+        "minor" : 0,
+        "security" : 345,
+        "patch" : null,
+        "pre" : null,
+        "build" : 1,
+        "optional" : null,
+        "openjdk_version" : "1.8.0_345-b01"
+      }
+    }
+  ]
+}

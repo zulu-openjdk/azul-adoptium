@@ -1,5 +1,8 @@
 {
   "schema_version" : "1.0.0",
   "indexes" : [ ],
-  "releases" : [ "zulu8.62.0.19-ca-jdk8u332_b09.json" ]
+  "releases" : [
+    "zulu8.62.0.19-ca-jdk8u332_b09.json",
+    "zulu8.64.0.19-ca-jdk8u345_b01.json"
+  ]
 }
