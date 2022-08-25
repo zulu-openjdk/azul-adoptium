@@ -1,5 +1,8 @@
 {
   "schema_version" : "1.0.0",
   "indexes" : [ ],
-  "releases" : [ ]
+  "releases" : [
+    "zulu11.58.23-ca-jdk-11.0.16.1+1.json",
+    "zulu11.58.25-ca-jdk-11.0.16.1+1.json",
+    "zulu11.58.27-ca-jdk-11.0.16.1+1.json" ]
 }
