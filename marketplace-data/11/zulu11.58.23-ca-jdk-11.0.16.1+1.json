@@ -1,0 +1,234 @@
+{
+  "releases": [
+    {
+      "release_link": "https://www.azul.com/downloads",
+      "release_name": "zulu11.58.23-ca-jdk-11.0.16.1+1",
+      "last_updated_timestamp": "2022-08-22T18:12:00Z",
+      "binaries": [
+        {
+          "os": "linux",
+          "architecture": "x64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.58.23-ca-jdk11.0.16.1-linux_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.58.23-ca-jdk11.0.16.1-linux_x64.tar.gz",
+            "sha265sum": "b8b3e7c2eec6d62b6f4de3e4b4b1c6035d42bd4d6d4f31e9aa804dc311d4a4b3"
+          },
+          "timestamp": "2022-08-22T18:12:00Z",
+          "scm_ref": "jdk-11.0.16.1+1",
+          "openjdk_scm_ref": "jdk-11.0.16.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.58.23-ca-jdk11.0.16.1-linux_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.58.23-ca-jdk11.0.16.1-linux_x64.tar.gz.pdf"
+        },
+        {
+          "os": "linux",
+          "architecture": "x64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.58.23-ca-jre11.0.16.1-linux_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.58.23-ca-jre11.0.16.1-linux_x64.tar.gz",
+            "sha265sum": "a9ce9340577c18b3fc27f27a6afce89aa4516857652e92013eabe26ce6cfc600"
+          },
+          "timestamp": "2022-08-22T18:12:00Z",
+          "scm_ref": "jdk-11.0.16.1+1",
+          "openjdk_scm_ref": "jdk-11.0.16.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.58.23-ca-jre11.0.16.1-linux_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.58.23-ca-jre11.0.16.1-linux_x64.tar.gz.pdf"
+        },
+        {
+          "os": "linux",
+          "architecture": "aarch64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.58.23-ca-jdk11.0.16.1-linux_aarch64.tar.gz",
+            "link": "https://cdn.azul.com/zulu-embedded/bin/zulu11.58.23-ca-jdk11.0.16.1-linux_aarch64.tar.gz",
+            "sha265sum": "f0f3b2ef8affd321ce9c76680da2ffc2f7266b7f3e57a521e95d2167b3d83fdf"
+          },
+          "timestamp": "2022-08-22T18:12:00Z",
+          "scm_ref": "jdk-11.0.16.1+1",
+          "openjdk_scm_ref": "jdk-11.0.16.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.58.23-ca-jdk11.0.16.1-linux_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu-embedded/pdf/cert.zulu11.58.23-ca-jdk11.0.16.1-linux_aarch64.tar.gz.pdf"
+        },
+        {
+          "os": "alpine_linux",
+          "architecture": "x64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.58.23-ca-jdk11.0.16.1-linux_musl_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.58.23-ca-jdk11.0.16.1-linux_musl_x64.tar.gz",
+            "sha265sum": "6f6e2cbf71982a5540c83c77441e3b26e7706672e7e8dd8a7e473b8825832db6"
+          },
+          "timestamp": "2022-08-22T18:12:00Z",
+          "scm_ref": "jdk-11.0.16.1+1",
+          "openjdk_scm_ref": "jdk-11.0.16.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.58.23-ca-jdk11.0.16.1-linux_musl_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.58.23-ca-jdk11.0.16.1-linux_musl_x64.tar.gz.pdf"
+        },
+        {
+          "os": "alpine_linux",
+          "architecture": "x64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.58.23-ca-jre11.0.16.1-linux_musl_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.58.23-ca-jre11.0.16.1-linux_musl_x64.tar.gz",
+            "sha265sum": "2a7aa89eb602aceb9147acf0d09ce89283cea060f511a8a0b0c78b68aa131eb1"
+          },
+          "timestamp": "2022-08-22T18:12:00Z",
+          "scm_ref": "jdk-11.0.16.1+1",
+          "openjdk_scm_ref": "jdk-11.0.16.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.58.23-ca-jre11.0.16.1-linux_musl_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.58.23-ca-jre11.0.16.1-linux_musl_x64.tar.gz.pdf"
+        },
+        {
+          "os": "windows",
+          "architecture": "x64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.58.23-ca-jdk11.0.16.1-win_x64.zip",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.58.23-ca-jdk11.0.16.1-win_x64.zip",
+            "sha265sum": "3e69b6a164fea625c421b28c08ce1b36f1e01427ded3335e8842d8545577be23"
+          },
+          "installer" : [ {
+            "name" : "zulu11.58.23-ca-jdk11.0.16.1-win_x64.msi",
+            "link" : "https://cdn.azul.com/zulu/bin/zulu11.58.23-ca-jdk11.0.16.1-win_x64.msi",
+            "sha265sum" : "eaa0558708c65106ae842c443620c57f1b2706045efce5293a4698e1dfe4e771"
+          } ],
+          "timestamp": "2022-08-22T18:12:00Z",
+          "scm_ref": "jdk-11.0.16.1+1",
+          "openjdk_scm_ref": "jdk-11.0.16.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.58.23-ca-jdk11.0.16.1-win_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.58.23-ca-jdk11.0.16.1-win_x64.zip.pdf"
+        },
+        {
+          "os": "windows",
+          "architecture": "x64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.58.23-ca-jre11.0.16.1-win_x64.zip",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.58.23-ca-jre11.0.16.1-win_x64.zip",
+            "sha265sum": "cdaf64bfc5b3686d1792ebbe9c9c6b89037fad02a9e3c401dd005d1298601275"
+          },
+          "installer" : [ {
+            "name" : "zulu11.58.23-ca-jre11.0.16.1-win_x64.msi",
+            "link" : "https://cdn.azul.com/zulu/bin/zulu11.58.23-ca-jre11.0.16.1-win_x64.msi",
+            "sha265sum" : "6683aa417e54d8aa8d06fe15785a484e8a050988883e39091c97cb5937e1099d"
+          } ],
+          "timestamp": "2022-08-22T18:12:00Z",
+          "scm_ref": "jdk-11.0.16.1+1",
+          "openjdk_scm_ref": "jdk-11.0.16.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.58.23-ca-jre11.0.16.1-win_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.58.23-ca-jre11.0.16.1-win_x64.zip.pdf"
+        },
+        {
+          "os": "mac",
+          "architecture": "x64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.58.23-ca-jdk11.0.16.1-macosx_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.58.23-ca-jdk11.0.16.1-macosx_x64.tar.gz",
+            "sha265sum": "7eee35218c02ee660178153ed91c283514f1b5c79ef2e0a90446a61e641d2601"
+          },
+          "installer" : [ {
+            "name" : "zulu11.58.23-ca-jdk11.0.16.1-macosx_x64.dmg",
+            "link" : "https://cdn.azul.com/zulu/bin/zulu11.58.23-ca-jdk11.0.16.1-macosx_x64.dmg",
+            "sha265sum" : "51db0cbdd3c7573fa36b8ceadc5cb43ccbe1ca2ae9b5e8f9a6cb468a2ffbcec4"
+          } ],
+          "timestamp": "2022-08-22T18:12:00Z",
+          "scm_ref": "jdk-11.0.16.1+1",
+          "openjdk_scm_ref": "jdk-11.0.16.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.58.23-ca-jdk11.0.16.1-macosx_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.58.23-ca-jdk11.0.16.1-macosx_x64.tar.gz.pdf"
+        },
+        {
+          "os": "mac",
+          "architecture": "x64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.58.23-ca-jre11.0.16.1-macosx_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.58.23-ca-jre11.0.16.1-macosx_x64.tar.gz",
+            "sha265sum": "112a89ee8780350a707c6dc238e73132af3ca2c503c2b9160a57a8e2701315f3"
+          },
+          "timestamp": "2022-08-22T18:12:00Z",
+          "scm_ref": "jdk-11.0.16.1+1",
+          "openjdk_scm_ref": "jdk-11.0.16.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.58.23-ca-jre11.0.16.1-macosx_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.58.23-ca-jre11.0.16.1-macosx_x64.tar.gz.pdf"
+        },
+        {
+          "os": "mac",
+          "architecture": "aarch64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.58.23-ca-jdk11.0.16.1-macosx_aarch64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.58.23-ca-jdk11.0.16.1-macosx_aarch64.tar.gz",
+            "sha265sum": "53be67a043aeb6aabdfd2a02764c9374a6cb7056bc0a31114a87cd492d3e90cf"
+          },
+          "installer" : [ {
+            "name" : "zulu11.58.23-ca-jdk11.0.16.1-macosx_aarch64.dmg",
+            "link" : "https://cdn.azul.com/zulu/bin/zulu11.58.23-ca-jdk11.0.16.1-macosx_aarch64.dmg",
+            "sha265sum" : "12aab5271707b642b1ad7e1d4c371791852fe4a1c485be641c140edf68e62edb"
+          } ],
+          "timestamp": "2022-08-22T18:12:00Z",
+          "scm_ref": "jdk-11.0.16.1+1",
+          "openjdk_scm_ref": "jdk-11.0.16.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.58.23-ca-jdk11.0.16.1-macosx_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.58.23-ca-jdk11.0.16.1-macosx_aarch64.tar.gz.pdf"
+        },
+        {
+          "os": "mac",
+          "architecture": "aarch64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.58.23-ca-jre11.0.16.1-macosx_aarch64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.58.23-ca-jre11.0.16.1-macosx_aarch64.tar.gz",
+            "sha265sum": "8ac806ce3e01c21c8c3bd589805558cf6f63724e014f37d87d1bf72007bc8e7e"
+          },
+          "installer" : [ {
+            "name" : "zulu11.58.23-ca-jre11.0.16.1-macosx_aarch64.dmg",
+            "link" : "https://cdn.azul.com/zulu/bin/zulu11.58.23-ca-jre11.0.16.1-macosx_aarch64.dmg",
+            "sha265sum" : "35d5d22b65b3b39aab15637d5f70de00af116b819a4a9e500060fdcaa218dd85"
+          } ],
+          "timestamp": "2022-08-22T18:12:00Z",
+          "scm_ref": "jdk-11.0.16.1+1",
+          "openjdk_scm_ref": "jdk-11.0.16.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.58.23-ca-jre11.0.16.1-macosx_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.58.23-ca-jre11.0.16.1-macosx_aarch64.tar.gz.pdf"
+        }
+      ],
+      "vendor" : "azul",
+      "openjdk_version_data" : {
+        "major" : 11,
+        "minor" : 0,
+        "security" : 16,
+        "patch" : 1,
+        "pre" : null,
+        "build" : 1,
+        "optional" : null,
+        "openjdk_version" : "11.0.16.1+1"
+      }
+    }
+  ]
+}

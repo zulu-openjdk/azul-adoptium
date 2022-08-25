@@ -1,0 +1,90 @@
+{
+  "releases": [
+    {
+      "release_link": "https://www.azul.com/downloads",
+      "release_name": "zulu11.58.27-ca-jdk-11.0.16.1+1",
+      "last_updated_timestamp": "2022-08-22T18:12:00Z",
+      "binaries": [
+        {
+          "os": "solaris",
+          "architecture": "x64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.58.27-ca-jdk11.0.16.1-solaris_x64.zip",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.58.27-ca-jdk11.0.16.1-solaris_x64.zip",
+            "sha265sum": "70a9616b51a6de3157689c26f6df5ed1a7d134fc6ab1bf71af9caf917cff3f6e"
+          },
+          "timestamp": "2022-08-22T18:12:00Z",
+          "scm_ref": "jdk-11.0.16.1+1",
+          "openjdk_scm_ref": "jdk-11.0.16.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.58.27-ca-jdk11.0.16.1-solaris_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.58.27-ca-jdk11.0.16.1-solaris_x64.zip.pdf"
+        },
+        {
+          "os": "solaris",
+          "architecture": "x64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.58.27-ca-jre11.0.16.1-solaris_x64.zip",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.58.27-ca-jre11.0.16.1-solaris_x64.zip",
+            "sha265sum": "0079b1e788849eb54f0badb0b49727bb33d8016ce552a08d52f20bb824fb81b7"
+          },
+          "timestamp": "2022-08-22T18:12:00Z",
+          "scm_ref": "jdk-11.0.16.1+1",
+          "openjdk_scm_ref": "jdk-11.0.16.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.58.27-ca-jre11.0.16.1-solaris_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.58.27-ca-jre11.0.16.1-solaris_x64.zip.pdf"
+        },
+        {
+          "os": "solaris",
+          "architecture": "sparcv9",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.58.27-ca-jdk11.0.16.1-solaris_sparcv9.zip",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.58.27-ca-jdk11.0.16.1-solaris_sparcv9.zip",
+            "sha265sum": "c3525735fcc256eebf24a2b36529bc929c6827a737ce290dbae77d008190dc83"
+          },
+          "timestamp": "2022-08-22T18:12:00Z",
+          "scm_ref": "jdk-11.0.16.1+1",
+          "openjdk_scm_ref": "jdk-11.0.16.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.58.27-ca-jdk11.0.16.1-solaris_sparcv9.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.58.27-ca-jdk11.0.16.1-solaris_sparcv9.zip.pdf"
+        },
+        {
+          "os": "solaris",
+          "architecture": "sparcv9",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.58.27-ca-jre11.0.16.1-solaris_sparcv9.zip",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.58.27-ca-jre11.0.16.1-solaris_sparcv9.zip",
+            "sha265sum": "5be73f08105e86595c660be7bffb22b3538b69cadb457c06b397bce942f27abe"
+          },
+          "timestamp": "2022-08-22T18:12:00Z",
+          "scm_ref": "jdk-11.0.16.1+1",
+          "openjdk_scm_ref": "jdk-11.0.16.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.58.27-ca-jre11.0.16.1-solaris_sparcv9.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.58.27-ca-jre11.0.16.1-solaris_sparcv9.zip.pdf"
+        }
+      ],
+      "vendor" : "azul",
+      "openjdk_version_data" : {
+        "major" : 11,
+        "minor" : 0,
+        "security" : 16,
+        "patch" : 1,
+        "pre" : null,
+        "build" : 1,
+        "optional" : null,
+        "openjdk_version" : "11.0.16.1+1"
+      }
+    }
+  ]
+}
