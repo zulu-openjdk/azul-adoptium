@@ -91,6 +91,23 @@
           "tck_affidavit_link": "https://cdn.azul.com/zulu-embedded/pdf/cert.zulu8.64.0.19-ca-jdk8.0.345-linux_aarch64.tar.gz.pdf"
         },
         {
+          "os": "linux",
+          "architecture": "aarch64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu8.64.0.19-ca-jre8.0.345-linux_aarch64.tar.gz",
+            "link": "https://cdn.azul.com/zulu-embedded/bin/zulu8.64.0.19-ca-jre8.0.345-linux_aarch64.tar.gz",
+            "sha265sum": "0806df375ad043ff0cff4cbbe563dbbb6feaecf10824333aad449ff34295c782"
+          },
+          "timestamp": "2022-08-05T22:07:00Z",
+          "scm_ref": "jdk8u345-b01",
+          "openjdk_scm_ref": "jdk8u345-b01",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu8/zulu8.64.0.19-ca-jre8u345_b01-linux_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu-embedded/pdf/cert.zulu8.64.0.19-ca-jre8.0.345-linux_aarch64.tar.gz.pdf"
+        },
+        {
           "os": "alpine_linux",
           "architecture": "x64",
           "image_type": "jdk",
