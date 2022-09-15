@@ -57,6 +57,23 @@
           "tck_affidavit_link": "https://cdn.azul.com/zulu-embedded/pdf/cert.zulu11.58.23-ca-jdk11.0.16.1-linux_aarch64.tar.gz.pdf"
         },
         {
+          "os": "linux",
+          "architecture": "aarch64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.58.23-ca-jre11.0.16.1-linux_aarch64.tar.gz",
+            "link": "https://cdn.azul.com/zulu-embedded/bin/zulu11.58.23-ca-jre11.0.16.1-linux_aarch64.tar.gz",
+            "sha265sum": "9b1954e06869b4734255ff2d4ac5c6f2b93791b474ae3f54b6237a084cd362f7"
+          },
+          "timestamp": "2022-08-22T18:12:00Z",
+          "scm_ref": "jdk-11.0.16.1+1",
+          "openjdk_scm_ref": "jdk-11.0.16.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.58.23-ca-jre11.0.16.1-linux_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu-embedded/pdf/cert.zulu11.58.23-ca-jre11.0.16.1-linux_aarch64.tar.gz.pdf"
+        },
+        {
           "os": "alpine_linux",
           "architecture": "x64",
           "image_type": "jdk",
