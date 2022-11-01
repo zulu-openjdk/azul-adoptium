@@ -3,7 +3,7 @@
     {
       "release_link": "https://www.azul.com/downloads",
       "release_name": "zulu17.38.21-ca-jdk-17.0.5+8",
-      "last_updated_timestamp": "2022-10-18T16:57:00Z",
+      "last_updated_timestamp": "2022-11-01T16:58:00Z",
       "binaries": [
         {
           "os": "linux",
@@ -303,16 +303,16 @@
           "image_type": "jdk",
           "jvm_impl": "hotspot",
           "package": {
-            "name": "zulu17.36.17-ca-jdk17.0.4.1-win_aarch64.zip",
-            "link": "https://cdn.azul.com/zulu/bin/zulu17.36.17-ca-jdk17.0.4.1-win_aarch64.zip",
-            "sha265sum": "c3b74bbfa7de23b3c12cf2151828d05e95e44f1226b6e7c091ada63dfa0d66a9"
+            "name": "zulu17.38.21-ca-jdk17.0.5-win_aarch64.zip",
+            "link": "https://cdn.azul.com/zulu/bin/zulu17.38.21-ca-jdk17.0.5-win_aarch64.zip",
+            "sha265sum": "bc3476f2161bf99bc9a243ff535b8fc033b34ce9a2fa4b62fb8d79b6bfdc427f"
           },
-          "timestamp": "2022-08-22T17:50:00Z",
-          "scm_ref": "jdk-17.0.4.1+1",
-          "openjdk_scm_ref": "jdk-17.0.4.1+1",
+          "timestamp": "2022-11-01T16:58:00Z",
+          "scm_ref": "jdk-17.0.5+8",
+          "openjdk_scm_ref": "jdk-17.0.5+8",
           "distribution": "zulu",
-          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu17/zulu17.36.17-ca-jdk17.0.4.1-win_aarch64.tap.zip",
-          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu17.36.17-ca-jdk17.0.4.1-win_aarch64.zip.pdf"
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu17/zulu17.38.21-ca-jdk17.0.5-win_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu17.38.21-ca-jdk17.0.5-win_aarch64.zip.pdf"
         },
         {
           "os": "mac",
