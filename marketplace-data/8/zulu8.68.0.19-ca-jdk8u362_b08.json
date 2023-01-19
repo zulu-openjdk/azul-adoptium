@@ -1,0 +1,397 @@
+{
+  "releases": [
+    {
+      "release_link": "https://www.azul.com/downloads",
+      "release_name": "zulu8.68.0.19-ca-jdk8u362-b08",
+      "last_updated_timestamp": "2023-01-18T12:50:00Z",
+      "binaries": [
+        {
+          "os": "linux",
+          "architecture": "x64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu8.68.0.19-ca-jdk8.0.362-linux_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu8.68.0.19-ca-jdk8.0.362-linux_x64.tar.gz",
+            "sha265sum": "8cdb72d222685c6faca7bbf67c60abc195824997d0e2d9187bc1118b140c28bd"
+          },
+          "timestamp": "2023-01-17T10:03:00Z",
+          "scm_ref": "jdk8u362-b08",
+          "openjdk_scm_ref": "jdk8u362-b08",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu8/zulu8.68.0.19-ca-jdk8u362_b08-linux_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu8.68.0.19-ca-jdk8.0.362-linux_x64.tar.gz.pdf"
+        },
+        {
+          "os": "linux",
+          "architecture": "x64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu8.68.0.19-ca-jre8.0.362-linux_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu8.68.0.19-ca-jre8.0.362-linux_x64.tar.gz",
+            "sha265sum": "31a91da101e40f42266d9aec74ab2364da108a1b5f9cc1a73fa6edbc0b4d4f98"
+          },
+          "timestamp": "2023-01-17T10:03:00Z",
+          "scm_ref": "jdk8u362-b08",
+          "openjdk_scm_ref": "jdk8u362-b08",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu8/zulu8.68.0.19-ca-jre8u362_b08-linux_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu8.68.0.19-ca-jre8.0.362-linux_x64.tar.gz.pdf"
+        },
+        {
+          "os": "linux",
+          "architecture": "x86",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu8.68.0.19-ca-jdk8.0.362-linux_i686.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu8.68.0.19-ca-jdk8.0.362-linux_i686.tar.gz",
+            "sha265sum": "7ecaaf08451d04da2596d602467018b57233d219c3f5e1e888e0b41b12e1dfc2"
+          },
+          "timestamp": "2023-01-17T10:03:00Z",
+          "scm_ref": "jdk8u362-b08",
+          "openjdk_scm_ref": "jdk8u362-b08",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu8/zulu8.68.0.19-ca-jdk8u362_b08-linux_i686.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu8.68.0.19-ca-jdk8.0.362-linux_i686.tar.gz.pdf"
+        },
+        {
+          "os": "linux",
+          "architecture": "x86",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu8.68.0.19-ca-jre8.0.362-linux_i686.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu8.68.0.19-ca-jre8.0.362-linux_i686.tar.gz",
+            "sha265sum": "2d162caea0a27940a9d6a8b554008680347b4b576178de2821376c12d5469b2f"
+          },
+          "timestamp": "2023-01-17T10:03:00Z",
+          "scm_ref": "jdk8u362-b08",
+          "openjdk_scm_ref": "jdk8u362-b08",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu8/zulu8.68.0.19-ca-jre8u362_b08-linux_i686.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu8.68.0.19-ca-jre8.0.362-linux_i686.tar.gz.pdf"
+        },
+        {
+          "os": "linux",
+          "architecture": "aarch64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu8.68.0.19-ca-jdk8.0.362-linux_aarch64.tar.gz",
+            "link": "https://cdn.azul.com/zulu-embedded/bin/zulu8.68.0.19-ca-jdk8.0.362-linux_aarch64.tar.gz",
+            "sha265sum": "ee34d656f6b2a46df3452c7692ea32b8d8aa8df68cab40b50782e88c3af1529e"
+          },
+          "timestamp": "2023-01-17T10:03:00Z",
+          "scm_ref": "jdk8u362-b08",
+          "openjdk_scm_ref": "jdk8u362-b08",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu8/zulu8.68.0.19-ca-jdk8u362_b08-linux_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu-embedded/pdf/cert.zulu8.68.0.19-ca-jdk8.0.362-linux_aarch64.tar.gz.pdf"
+        },
+        {
+          "os": "linux",
+          "architecture": "aarch64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu8.68.0.19-ca-jre8.0.362-linux_aarch64.tar.gz",
+            "link": "https://cdn.azul.com/zulu-embedded/bin/zulu8.68.0.19-ca-jre8.0.362-linux_aarch64.tar.gz",
+            "sha265sum": "3f951cbcc991371a06412d455730e7fcd81b0fbc8eafb77f1242e0c531bb9a84"
+          },
+          "timestamp": "2023-01-18T12:50:00Z",
+          "scm_ref": "jdk8u362-b08",
+          "openjdk_scm_ref": "jdk8u362-b08",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu8/zulu8.68.0.19-ca-jre8u362_b08-linux_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu-embedded/pdf/cert.zulu8.68.0.19-ca-jre8.0.362-linux_aarch64.tar.gz.pdf"
+        },
+        {
+          "os": "alpine_linux",
+          "architecture": "x64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu8.68.0.19-ca-jdk8.0.362-linux_musl_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu8.68.0.19-ca-jdk8.0.362-linux_musl_x64.tar.gz",
+            "sha265sum": "0c62f632fd5434d0642eb0641fca9ac9c2f261af73278650ad213ab875133997"
+          },
+          "timestamp": "2023-01-17T10:03:00Z",
+          "scm_ref": "jdk8u362-b08",
+          "openjdk_scm_ref": "jdk8u362-b08",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu8/zulu8.68.0.19-ca-jdk8u362_b08-linux_musl_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu8.68.0.19-ca-jdk8.0.362-linux_musl_x64.tar.gz.pdf"
+        },
+        {
+          "os": "alpine_linux",
+          "architecture": "x64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu8.68.0.19-ca-jre8.0.362-linux_musl_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu8.68.0.19-ca-jre8.0.362-linux_musl_x64.tar.gz",
+            "sha265sum": "51c026ea749004134d930e5ec00d841efc7d576144ec83915fefedfd94310ecc"
+          },
+          "timestamp": "2023-01-17T10:03:00Z",
+          "scm_ref": "jdk8u362-b08",
+          "openjdk_scm_ref": "jdk8u362-b08",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu8/zulu8.68.0.19-ca-jre8u362_b08-linux_musl_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu8.68.0.19-ca-jre8.0.362-linux_musl_x64.tar.gz.pdf"
+        },
+        {
+          "os": "alpine_linux",
+          "architecture": "aarch64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu8.68.0.19-ca-jdk8.0.362-linux_musl_aarch64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu8.68.0.19-ca-jdk8.0.362-linux_musl_aarch64.tar.gz",
+            "sha265sum": "1f268ffaab8c8ee8cc2b2311e66ce396e03441bb729ba8569d04a02124c2ad91"
+          },
+          "timestamp": "2023-01-17T10:03:00Z",
+          "scm_ref": "jdk8u362-b08",
+          "openjdk_scm_ref": "jdk8u362-b08",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu8/zulu8.68.0.19-ca-jdk8u362_b08-linux_musl_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu8.68.0.19-ca-jdk8.0.362-linux_musl_aarch64.tar.gz.pdf"
+        },
+        {
+          "os": "alpine_linux",
+          "architecture": "aarch64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu8.68.0.19-ca-jre8.0.362-linux_musl_aarch64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu8.68.0.19-ca-jre8.0.362-linux_musl_aarch64.tar.gz",
+            "sha265sum": "39cbe9644c9885e49496eb87a7bef588064b2075b48b8371006f6a8e6cfdcf05"
+          },
+          "timestamp": "2023-01-17T10:03:00Z",
+          "scm_ref": "jdk8u362-b08",
+          "openjdk_scm_ref": "jdk8u362-b08",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu8/zulu8.68.0.19-ca-jre8u362_b08-linux_musl_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu8.68.0.19-ca-jre8.0.362-linux_musl_aarch64.tar.gz.pdf"
+        },
+        {
+          "os": "mac",
+          "architecture": "x64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu8.68.0.19-ca-jdk8.0.362-macosx_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu8.68.0.19-ca-jdk8.0.362-macosx_x64.tar.gz",
+            "sha265sum": "1d4020045b5183407e65b511ca4c805195f896da2e4fc2d572466a9d3bc5e5d4"
+          },
+          "installer" : [ {
+            "name" : "zulu8.68.0.19-ca-jdk8.0.362-macosx_x64.dmg",
+            "link" : "https://cdn.azul.com/zulu/bin/zulu8.68.0.19-ca-jdk8.0.362-macosx_x64.dmg",
+            "sha265sum" : "f26bbc8f09f44f824fd37d386be5341af8065de5fb0f7d420c6c29b88dd92009"
+          } ],
+          "timestamp": "2023-01-17T16:10:00Z",
+          "scm_ref": "jdk8u362-b08",
+          "openjdk_scm_ref": "jdk8u362-b08",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu8/zulu8.68.0.19-ca-jdk8u362_b08-macosx_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu8.68.0.19-ca-jdk8.0.362-macosx_x64.tar.gz.pdf"
+        },
+        {
+          "os": "mac",
+          "architecture": "x64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu8.68.0.19-ca-jre8.0.362-macosx_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu8.68.0.19-ca-jre8.0.362-macosx_x64.tar.gz",
+            "sha265sum": "81d8c940b98a1261d3d819b278e7fc8166429720e29e93741344737ce09b51b4"
+          },
+          "timestamp": "2023-01-17T16:10:00Z",
+          "scm_ref": "jdk8u362-b08",
+          "openjdk_scm_ref": "jdk8u362-b08",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu8/zulu8.68.0.19-ca-jre8u362_b08-macosx_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu8.68.0.19-ca-jre8.0.362-macosx_x64.tar.gz.pdf"
+        },
+        {
+          "os": "mac",
+          "architecture": "aarch64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu8.68.0.19-ca-jdk8.0.362-macosx_aarch64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu8.68.0.19-ca-jdk8.0.362-macosx_aarch64.tar.gz",
+            "sha265sum": "8957358fb0e26971371f228e845978f6038a8cbc1b196297c859acb7b4c22409"
+          },
+          "installer" : [ {
+            "name" : "zulu8.68.0.19-ca-jdk8.0.362-macosx_aarch64.dmg",
+            "link" : "https://cdn.azul.com/zulu/bin/zulu8.68.0.19-ca-jdk8.0.362-macosx_aarch64.dmg",
+            "sha265sum" : "4ad7ffbf4ab2850b7ea7d69b12724ac23f86066e11f05f8a15b098266d383240"
+          } ],
+          "timestamp": "2023-01-17T16:10:00Z",
+          "scm_ref": "jdk8u362-b08",
+          "openjdk_scm_ref": "jdk8u362-b08",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu8/zulu8.68.0.19-ca-jdk8u362_b08-macosx_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu8.68.0.19-ca-jdk8.0.362-macosx_aarch64.tar.gz.pdf"
+        },
+        {
+          "os": "mac",
+          "architecture": "aarch64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu8.68.0.19-ca-jre8.0.362-macosx_aarch64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu8.68.0.19-ca-jre8.0.362-macosx_aarch64.tar.gz",
+            "sha265sum": "5fd7893aa9de941e51760645d9afba5643a568cd7e5c24f434e7b3b754340566"
+          },
+          "installer" : [ {
+            "name" : "zulu8.68.0.19-ca-jre8.0.362-macosx_aarch64.dmg",
+            "link" : "https://cdn.azul.com/zulu/bin/zulu8.68.0.19-ca-jre8.0.362-macosx_aarch64.dmg",
+            "sha265sum" : "019ec429d33d472142ad547b700423d4d9f3260fdf9251fa1daa4dbb5c73a314"
+          } ],
+          "timestamp": "2023-01-17T16:10:00Z",
+          "scm_ref": "jdk8u362-b08",
+          "openjdk_scm_ref": "jdk8u362-b08",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu8/zulu8.68.0.19-ca-jre8u362_b08-macosx_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu8.68.0.19-ca-jre8.0.362-macosx_aarch64.tar.gz.pdf"
+        },
+        {
+          "os": "windows",
+          "architecture": "x64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu8.68.0.19-ca-jdk8.0.362-win_x64.zip",
+            "link": "https://cdn.azul.com/zulu/bin/zulu8.68.0.19-ca-jdk8.0.362-win_x64.zip",
+            "sha265sum": "19f6c45571fa6df26511a966bb1ae18c959c942b84eb1e63b36ccca70090d288"
+          },
+          "installer" : [ {
+            "name" : "zulu8.68.0.19-ca-jdk8.0.362-win_x64.msi",
+            "link" : "https://cdn.azul.com/zulu/bin/zulu8.68.0.19-ca-jdk8.0.362-win_x64.msi",
+            "sha265sum" : "1006cfb668f7f0a76d920858b89ea21e73c76b511c3ce58f3fdeda82ca0a38b3"
+          } ],
+          "timestamp": "2023-01-17T10:04:00Z",
+          "scm_ref": "jdk8u362-b08",
+          "openjdk_scm_ref": "jdk8u362-b08",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu8/zulu8.68.0.19-ca-jdk8u362_b08-win_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu8.68.0.19-ca-jdk8.0.362-win_x64.zip.pdf"
+        },
+        {
+          "os": "windows",
+          "architecture": "x64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu8.68.0.19-ca-jre8.0.362-win_x64.zip",
+            "link": "https://cdn.azul.com/zulu/bin/zulu8.68.0.19-ca-jre8.0.362-win_x64.zip",
+            "sha265sum": "72a1339d15097d7a72bc171204b0c61fba76a79b170ed1d45641b7cef2dfd0e8"
+          },
+          "installer" : [ {
+            "name" : "zulu8.68.0.19-ca-jre8.0.362-win_x64.msi",
+            "link" : "https://cdn.azul.com/zulu/bin/zulu8.68.0.19-ca-jre8.0.362-win_x64.msi",
+            "sha265sum" : "2b5ec8229d44bff4f0ee5fee3bf2cab0f335269ed725fea83fc7880633d33f1d"
+          } ],
+          "timestamp": "2023-01-17T10:04:00Z",
+          "scm_ref": "jdk8u362-b08",
+          "openjdk_scm_ref": "jdk8u362-b08",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu8/zulu8.68.0.19-ca-jre8u362_b08-win_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu8.68.0.19-ca-jre8.0.362-win_x64.zip.pdf"
+        },
+        {
+          "os": "windows",
+          "architecture": "x86",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu8.68.0.19-ca-jdk8.0.362-win_i686.zip",
+            "link": "https://cdn.azul.com/zulu/bin/zulu8.68.0.19-ca-jdk8.0.362-win_i686.zip",
+            "sha265sum": "7a926b56fe77376b27e0ade4fbcb89e1e3d16a0c8c3f2fb1974a17b953fff3b5"
+          },
+          "installer" : [ {
+            "name" : "zulu8.68.0.19-ca-jdk8.0.362-win_i686.msi",
+            "link" : "https://cdn.azul.com/zulu/bin/zulu8.68.0.19-ca-jdk8.0.362-win_i686.msi",
+            "sha265sum" : "09171351b3726c7b145edd50a87641f0c52ea181a4b1ef194e194794148da1a6"
+          } ],
+          "timestamp": "2023-01-17T10:04:00Z",
+          "scm_ref": "jdk8u362-b08",
+          "openjdk_scm_ref": "jdk8u362-b08",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu8/zulu8.68.0.19-ca-jdk8u362_b08-win_i686.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu8.68.0.19-ca-jdk8.0.362-win_i686.zip.pdf"
+        },
+        {
+          "os": "windows",
+          "architecture": "x86",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu8.68.0.19-ca-jre8.0.362-win_i686.zip",
+            "link": "https://cdn.azul.com/zulu/bin/zulu8.68.0.19-ca-jre8.0.362-win_i686.zip",
+            "sha265sum": "d9e844e3e23678332a372b93b908144e08823c429f87418c9f455fe1ad14daba"
+          },
+          "installer" : [ {
+            "name" : "zulu8.68.0.19-ca-jre8.0.362-win_i686.msi",
+            "link" : "https://cdn.azul.com/zulu/bin/zulu8.68.0.19-ca-jre8.0.362-win_i686.msi",
+            "sha265sum" : "28bf4f1a0941514ef3810514fe2e8faf53f6ee501be74348d489237306380f52"
+          } ],
+          "timestamp": "2023-01-17T10:04:00Z",
+          "scm_ref": "jdk8u362-b08",
+          "openjdk_scm_ref": "jdk8u362-b08",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu8/zulu8.68.0.19-ca-jre8u362_b08-win_i686.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu8.68.0.19-ca-jre8.0.362-win_i686.zip.pdf"
+        },
+        {
+          "os": "solaris",
+          "architecture": "x64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu8.68.0.19-ca-jdk8.0.362-solaris_x64.zip",
+            "link": "https://cdn.azul.com/zulu/bin/zulu8.68.0.19-ca-jdk8.0.362-solaris_x64.zip",
+            "sha265sum": "3aaf6b2d6568b461730786b9b84a4fa4295c7124c223fe1d8102ed5e4455713d"
+          },
+          "timestamp": "2023-01-17T10:03:00Z",
+          "scm_ref": "jdk8u362-b08",
+          "openjdk_scm_ref": "jdk8u362-b08",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu8/zulu8.68.0.19-ca-jdk8u362_b08-solaris_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu8.68.0.19-ca-jdk8.0.362-solaris_x64.zip.pdf"
+        },
+        {
+          "os": "solaris",
+          "architecture": "sparcv9",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu8.68.0.19-ca-jdk8.0.362-solaris_sparcv9.zip",
+            "link": "https://cdn.azul.com/zulu/bin/zulu8.68.0.19-ca-jdk8.0.362-solaris_sparcv9.zip",
+            "sha265sum": "d8575c96ef66183aa15fb30a8bdf411742246bced2164070c5b5a41428c4ef3f"
+          },
+          "timestamp": "2023-01-17T10:03:00Z",
+          "scm_ref": "jdk8u362-b08",
+          "openjdk_scm_ref": "jdk8u362-b08",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu8/zulu8.68.0.19-ca-jdk8u362_b08-solaris_sparcv9.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu8.68.0.19-ca-jdk8.0.362-solaris_sparcv9.zip.pdf"
+        }
+      ],
+      "vendor" : "azul",
+      "openjdk_version_data" : {
+        "major" : 8,
+        "minor" : 0,
+        "security" : 362,
+        "patch" : null,
+        "pre" : null,
+        "build" : 8,
+        "optional" : null,
+        "openjdk_version" : "1.8.0_362-b08"
+      }
+    }
+  ]
+}
