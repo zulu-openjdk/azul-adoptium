@@ -3,7 +3,7 @@
     {
       "release_link": "https://www.azul.com/downloads",
       "release_name": "zulu8.68.0.19-ca-jdk8u362-b08",
-      "last_updated_timestamp": "2023-01-18T12:50:00Z",
+      "last_updated_timestamp": "2023-01-19T20:31:00Z",
       "binaries": [
         {
           "os": "linux",
@@ -174,6 +174,40 @@
           "distribution": "zulu",
           "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu8/zulu8.68.0.19-ca-jre8u362_b08-linux_musl_aarch64.tap.zip",
           "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu8.68.0.19-ca-jre8.0.362-linux_musl_aarch64.tar.gz.pdf"
+        },
+        {
+          "os": "linux",
+          "architecture": "arm",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu8.68.0.19-ca-jdk8.0.362-linux_aarch32hf.tar.gz",
+            "link": "https://cdn.azul.com/zulu-embedded/bin/zulu8.68.0.19-ca-jdk8.0.362-linux_aarch32hf.tar.gz",
+            "sha265sum": "a18b20a059c7eb4a4c5a88a5d6bf8e0d91412275fbcbb939a88757aa8cb4c92b"
+          },
+          "timestamp": "2023-01-19T20:31:00Z",
+          "scm_ref": "jdk8u362-b08",
+          "openjdk_scm_ref": "jdk8u362-b08",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu8/zulu8.68.0.19-ca-jdk8u362_b08-linux_aarch32hf.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu-embedded/pdf/cert.zulu8.68.0.19-ca-jdk8.0.362-linux_aarch32hf.tar.gz.pdf"
+        },
+        {
+          "os": "linux",
+          "architecture": "ppc64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu8.68.0.19-ca-hl-jdk8.0.362-linux_ppc64.tar.gz",
+            "link": "https://cdn.azul.com/zulu-embedded/bin/zulu8.68.0.19-ca-hl-jdk8.0.362-linux_ppc64.tar.gz",
+            "sha265sum": "5b176e82ec2effc43c8722052114e715d212f548d2c79603cb43ed04152fedcc"
+          },
+          "timestamp": "2023-01-19T15:06:00Z",
+          "scm_ref": "jdk8u362-b08",
+          "openjdk_scm_ref": "jdk8u362-b08",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu8/zulu8.68.0.19-ca-jdk8u362_b08-linux_ppc64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu-embedded/pdf/cert.zulu8.68.0.19-ca-hl-jdk8.0.362-linux_ppc64.tar.gz.pdf"
         },
         {
           "os": "mac",
