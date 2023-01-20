@@ -4,6 +4,7 @@
   "releases" : [
     "zulu17.36.17-ca-jdk-17.0.4.1.json",
     "zulu17.36.19-ca-jdk-17.0.4.1.json",
-    "zulu17.38.21-ca-jdk-17.0.5+8.json"
+    "zulu17.38.21-ca-jdk-17.0.5+8.json",
+    "zulu17.40.19-ca-jdk-17.0.6+10.json"
   ]
 }
