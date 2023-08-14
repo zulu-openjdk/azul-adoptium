@@ -3,7 +3,7 @@
     {
       "release_link": "https://www.azul.com/downloads",
       "release_name": "zulu17.44.15-ca-jdk-17.0.8+7",
-      "last_updated_timestamp": "2023-07-19T12:49:00Z",
+      "last_updated_timestamp": "2023-08-02T21:37:00Z",
       "binaries": [
         {
           "os": "linux",
@@ -174,6 +174,40 @@
           "distribution": "zulu",
           "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu17/zulu17.44.15-ca-jre17.0.8-linux_musl_aarch64.tap.zip",
           "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu17.44.15-ca-jre17.0.8-linux_musl_aarch64.tar.gz.pdf"
+        },
+        {
+          "os": "linux",
+          "architecture": "arm",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu17.44.15-ca-jdk17.0.8-linux_aarch32hf.tar.gz",
+            "link": "https://cdn.azul.com/zulu-embedded/bin/zulu17.44.15-ca-jdk17.0.8-linux_aarch32hf.tar.gz",
+            "sha265sum": "4feb1f6cba26c66160e03284b876071ee9d27954df2e2be51def935afc30d8d9"
+          },
+          "timestamp": "2023-08-01T12:54:00Z",
+          "scm_ref": "jdk-17.0.8+7",
+          "openjdk_scm_ref": "jdk-17.0.8+7",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu17/zulu17.44.15-ca-jdk17.0.8-linux_aarch32hf.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu-embedded/pdf/cert.zulu17.44.15-ca-jdk17.0.8-linux_aarch32hf.tar.gz.pdf"
+        },
+        {
+          "os": "linux",
+          "architecture": "arm",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu17.44.15-ca-jre17.0.8-linux_aarch32hf.tar.gz",
+            "link": "https://cdn.azul.com/zulu-embedded/bin/zulu17.44.15-ca-jre17.0.8-linux_aarch32hf.tar.gz",
+            "sha265sum": "b7a22b1919cfe08ef3b3cef1bf0447408c2c8e356bb05195ea8fb6c6abe39d11"
+          },
+          "timestamp": "2023-08-02T21:37:00Z",
+          "scm_ref": "jdk-17.0.8+7",
+          "openjdk_scm_ref": "jdk-17.0.8+7",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu17/zulu17.44.15-ca-jre17.0.8-linux_aarch32hf.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu-embedded/pdf/cert.zulu17.44.15-ca-jre17.0.8-linux_aarch32hf.tar.gz.pdf"
         },
         {
           "os": "windows",
