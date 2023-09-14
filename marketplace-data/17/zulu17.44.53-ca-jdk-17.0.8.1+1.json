@@ -1,0 +1,380 @@
+{
+  "releases": [
+    {
+      "release_link": "https://www.azul.com/downloads",
+      "release_name": "zulu17.44.53-ca-jdk-17.0.8.1+1",
+      "last_updated_timestamp": "2023-09-09T15:47:00Z",
+      "binaries": [
+        {
+          "os": "linux",
+          "architecture": "x64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu17.44.53-ca-jdk17.0.8.1-linux_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu17.44.53-ca-jdk17.0.8.1-linux_x64.tar.gz",
+            "sha265sum": "b9482f2304a1a68a614dfacddcf29569a72f0fac32e6c74f83dc1b9a157b8340"
+          },
+          "timestamp": "2023-09-09T15:47:00Z",
+          "scm_ref": "jdk-17.0.8.1+1",
+          "openjdk_scm_ref": "jdk-17.0.8.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu17/zulu17.44.53-ca-jdk17.0.8.1-linux_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu17.44.53-ca-jdk17.0.8.1-linux_x64.tar.gz.pdf"
+        },
+        {
+          "os": "linux",
+          "architecture": "x64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu17.44.53-ca-jre17.0.8.1-linux_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu17.44.53-ca-jre17.0.8.1-linux_x64.tar.gz",
+            "sha265sum": "b1dbefe290685d2199422d9d510c62ce30a486492e3232800f2ac50718b61090"
+          },
+          "timestamp": "2023-09-09T15:47:00Z",
+          "scm_ref": "jdk-17.0.8.1+1",
+          "openjdk_scm_ref": "jdk-17.0.8.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu17/zulu17.44.53-ca-jre17.0.8.1-linux_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu17.44.53-ca-jre17.0.8.1-linux_x64.tar.gz.pdf"
+        },
+        {
+          "os": "linux",
+          "architecture": "x86",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu17.44.53-ca-jdk17.0.8.1-linux_i686.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu17.44.53-ca-jdk17.0.8.1-linux_i686.tar.gz",
+            "sha265sum": "987b821c995867f27024da363f5cb9a52d860100f27f838187dd47c1824d1141"
+          },
+          "timestamp": "2023-09-09T15:47:00Z",
+          "scm_ref": "jdk-17.0.8.1+1",
+          "openjdk_scm_ref": "jdk-17.0.8.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu17/zulu17.44.53-ca-jdk17.0.8.1-linux_i686.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu17.44.53-ca-jdk17.0.8.1-linux_i686.tar.gz.pdf"
+        },
+        {
+          "os": "linux",
+          "architecture": "x86",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu17.44.53-ca-jre17.0.8.1-linux_i686.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu17.44.53-ca-jre17.0.8.1-linux_i686.tar.gz",
+            "sha265sum": "6de706f2ede9c68b456ad5e8d7260fc9472e18f5d1636cdb3c8edcb700396671"
+          },
+          "timestamp": "2023-09-09T15:47:00Z",
+          "scm_ref": "jdk-17.0.8.1+1",
+          "openjdk_scm_ref": "jdk-17.0.8.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu17/zulu17.44.53-ca-jre17.0.8.1-linux_i686.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu17.44.53-ca-jre17.0.8.1-linux_i686.tar.gz.pdf"
+        },
+        {
+          "os": "linux",
+          "architecture": "aarch64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu17.44.53-ca-jdk17.0.8.1-linux_aarch64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu17.44.53-ca-jdk17.0.8.1-linux_aarch64.tar.gz",
+            "sha265sum": "6531cef61e416d5a7b691555c8cf2bdff689201b8a001ff45ab6740062b44313"
+          },
+          "timestamp": "2023-09-09T15:47:00Z",
+          "scm_ref": "jdk-17.0.8.1+1",
+          "openjdk_scm_ref": "jdk-17.0.8.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu17/zulu17.44.53-ca-jdk17.0.8.1-linux_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu17.44.53-ca-jdk17.0.8.1-linux_aarch64.tar.gz.pdf"
+        },
+        {
+          "os": "linux",
+          "architecture": "aarch64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu17.44.53-ca-jre17.0.8.1-linux_aarch64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu17.44.53-ca-jre17.0.8.1-linux_aarch64.tar.gz",
+            "sha265sum": "1b2086420b2c1c87a3bc4e0aa8bfc34b05fdf32fc784cd463fd82b0efd30fa9d"
+          },
+          "timestamp": "2023-09-09T15:47:00Z",
+          "scm_ref": "jdk-17.0.8.1+1",
+          "openjdk_scm_ref": "jdk-17.0.8.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu17/zulu17.44.53-ca-jre17.0.8.1-linux_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu17.44.53-ca-jre17.0.8.1-linux_aarch64.tar.gz.pdf"
+        },
+        {
+          "os": "alpine_linux",
+          "architecture": "x64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu17.44.53-ca-jdk17.0.8.1-linux_musl_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu17.44.53-ca-jdk17.0.8.1-linux_musl_x64.tar.gz",
+            "sha265sum": "77a8883ad6057c7e7f5fb2ab0d1a0aa47f70ac22ec3785e5e11995b84b2b8dd3"
+          },
+          "timestamp": "2023-09-09T15:47:00Z",
+          "scm_ref": "jdk-17.0.8.1+1",
+          "openjdk_scm_ref": "jdk-17.0.8.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu17/zulu17.44.53-ca-jdk17.0.8.1-linux_musl_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu17.44.53-ca-jdk17.0.8.1-linux_musl_x64.tar.gz.pdf"
+        },
+        {
+          "os": "alpine_linux",
+          "architecture": "x64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu17.44.53-ca-jre17.0.8.1-linux_musl_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu17.44.53-ca-jre17.0.8.1-linux_musl_x64.tar.gz",
+            "sha265sum": "b5b83f33bd02b2944da0066a067f5880f5702b2dc30d63ec3f66cd5aabbc96d2"
+          },
+          "timestamp": "2023-09-09T15:47:00Z",
+          "scm_ref": "jdk-17.0.8.1+1",
+          "openjdk_scm_ref": "jdk-17.0.8.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu17/zulu17.44.53-ca-jre17.0.8.1-linux_musl_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu17.44.53-ca-jre17.0.8.1-linux_musl_x64.tar.gz.pdf"
+        },
+        {
+          "os": "alpine_linux",
+          "architecture": "aarch64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu17.44.53-ca-jdk17.0.8.1-linux_musl_aarch64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu17.44.53-ca-jdk17.0.8.1-linux_musl_aarch64.tar.gz",
+            "sha265sum": "1ad9d99fcde422ae814acd4f45f00ed08a3a31f170af534b663da2f1c25da232"
+          },
+          "timestamp": "2023-09-09T15:47:00Z",
+          "scm_ref": "jdk-17.0.8.1+1",
+          "openjdk_scm_ref": "jdk-17.0.8.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu17/zulu17.44.53-ca-jdk17.0.8.1-linux_musl_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu17.44.53-ca-jdk17.0.8.1-linux_musl_aarch64.tar.gz.pdf"
+        },
+        {
+          "os": "alpine_linux",
+          "architecture": "aarch64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu17.44.53-ca-jre17.0.8.1-linux_musl_aarch64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu17.44.53-ca-jre17.0.8.1-linux_musl_aarch64.tar.gz",
+            "sha265sum": "d699b2f61a7e11d6ca064245c261c2e12fe1cc42340e766ffe6b0e6fcd4cf478"
+          },
+          "timestamp": "2023-09-09T15:47:00Z",
+          "scm_ref": "jdk-17.0.8.1+1",
+          "openjdk_scm_ref": "jdk-17.0.8.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu17/zulu17.44.53-ca-jre17.0.8.1-linux_musl_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu17.44.53-ca-jre17.0.8.1-linux_musl_aarch64.tar.gz.pdf"
+        },
+        {
+          "os": "windows",
+          "architecture": "x64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu17.44.53-ca-jdk17.0.8.1-win_x64.zip",
+            "link": "https://cdn.azul.com/zulu/bin/zulu17.44.53-ca-jdk17.0.8.1-win_x64.zip",
+            "sha265sum": "192f2afca57701de6ec496234f7e45d971bf623ff66b8ee4a5c81582054e5637"
+          },
+          "installer" : [ {
+            "name" : "zulu17.44.53-ca-jdk17.0.8.1-win_x64.msi",
+            "link" : "https://cdn.azul.com/zulu/bin/zulu17.44.53-ca-jdk17.0.8.1-win_x64.msi",
+            "sha265sum" : "ede004987b38133be69cbc817cb574ac2f63dc5a978181975be18013a342d423"
+          } ],
+          "timestamp": "2023-09-09T15:47:00Z",
+          "scm_ref": "jdk-17.0.8.1+1",
+          "openjdk_scm_ref": "jdk-17.0.8.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu17/zulu17.44.53-ca-jdk17.0.8.1-win_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu17.44.53-ca-jdk17.0.8.1-win_x64.zip.pdf"
+        },
+        {
+          "os": "windows",
+          "architecture": "x64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu17.44.53-ca-jre17.0.8.1-win_x64.zip",
+            "link": "https://cdn.azul.com/zulu/bin/zulu17.44.53-ca-jre17.0.8.1-win_x64.zip",
+            "sha265sum": "95c67df259116e4fe65373f121346cd03b6050bc9df450d277cb39d573ee84fd"
+          },
+          "installer" : [ {
+            "name" : "zulu17.44.53-ca-jre17.0.8.1-win_x64.msi",
+            "link" : "https://cdn.azul.com/zulu/bin/zulu17.44.53-ca-jre17.0.8.1-win_x64.msi",
+            "sha265sum" : "39607651f541a33508f339bb6b1f04766cb48efc3fc524d99757eaff92eb4f47"
+          } ],
+          "timestamp": "2023-09-09T15:47:00Z",
+          "scm_ref": "jdk-17.0.8.1+1",
+          "openjdk_scm_ref": "jdk-17.0.8.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu17/zulu17.44.53-ca-jre17.0.8.1-win_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu17.44.53-ca-jre17.0.8.1-win_x64.zip.pdf"
+        },
+        {
+          "os": "windows",
+          "architecture": "x86",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu17.44.53-ca-jdk17.0.8.1-win_i686.zip",
+            "link": "https://cdn.azul.com/zulu/bin/zulu17.44.53-ca-jdk17.0.8.1-win_i686.zip",
+            "sha265sum": "16d4188cfd72d998231aa2d15a2852110a1e61d00d86af53d8ff47168612d4ea"
+          },
+          "installer" : [ {
+            "name" : "zulu17.44.53-ca-jdk17.0.8.1-win_i686.msi",
+            "link" : "https://cdn.azul.com/zulu/bin/zulu17.44.53-ca-jdk17.0.8.1-win_i686.msi",
+            "sha265sum" : "4c31b7f48e7502891d2d671e4e42518dc62fa8416f1225ae88abd236d0144e77"
+          } ],
+          "timestamp": "2023-09-09T15:47:00Z",
+          "scm_ref": "jdk-17.0.8.1+1",
+          "openjdk_scm_ref": "jdk-17.0.8.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu17/zulu17.44.53-ca-jdk17.0.8.1-win_i686.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu17.44.53-ca-jdk17.0.8.1-win_i686.zip.pdf"
+        },
+        {
+          "os": "windows",
+          "architecture": "x86",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu17.44.53-ca-jre17.0.8.1-win_i686.zip",
+            "link": "https://cdn.azul.com/zulu/bin/zulu17.44.53-ca-jre17.0.8.1-win_i686.zip",
+            "sha265sum": "0329dc9f67f53cdf96875784d8ba984b387e2fd3449a4a0edb0e16c1550f77bc"
+          },
+          "installer" : [ {
+            "name" : "zulu17.44.53-ca-jre17.0.8.1-win_i686.msi",
+            "link" : "https://cdn.azul.com/zulu/bin/zulu17.44.53-ca-jre17.0.8.1-win_i686.msi",
+            "sha265sum" : "f6d9daefc197a6ba69c07c66ca2e13e18b1fbb2a8b1de98d663be53d9ed6bb44"
+          } ],
+          "timestamp": "2023-09-09T15:47:00Z",
+          "scm_ref": "jdk-17.0.8.1+1",
+          "openjdk_scm_ref": "jdk-17.0.8.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu17/zulu17.44.53-ca-jre17.0.8.1-win_i686.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu17.44.53-ca-jre17.0.8.1-win_i686.zip.pdf"
+        },
+        {
+          "os": "windows",
+          "architecture": "aarch64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu17.44.53-ca-jdk17.0.8.1-win_aarch64.zip",
+            "link": "https://cdn.azul.com/zulu/bin/zulu17.44.53-ca-jdk17.0.8.1-win_aarch64.zip",
+            "sha265sum": "6802c99eae0d788e21f52d03cab2e2b3bf42bc334ca03cbf19f71eb70ee19f85"
+          },
+          "timestamp": "2023-09-09T15:47:00Z",
+          "scm_ref": "jdk-17.0.8.1+1",
+          "openjdk_scm_ref": "jdk-17.0.8.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu17/zulu17.44.53-ca-jdk17.0.8.1-win_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu17.44.53-ca-jdk17.0.8.1-win_aarch64.zip.pdf"
+        },
+        {
+          "os": "mac",
+          "architecture": "x64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu17.44.53-ca-jdk17.0.8.1-macosx_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu17.44.53-ca-jdk17.0.8.1-macosx_x64.tar.gz",
+            "sha265sum": "640453e8afe8ffe0fb4dceb4535fb50db9c283c64665eebb0ba68b19e65f4b1f"
+          },
+          "installer" : [ {
+            "name" : "zulu17.44.53-ca-jdk17.0.8.1-macosx_x64.dmg",
+            "link" : "https://cdn.azul.com/zulu/bin/zulu17.44.53-ca-jdk17.0.8.1-macosx_x64.dmg",
+            "sha265sum" : "44001eb7b660ea5d768168b2746a9fab51c16822bcab9d968a341164e3f07f0d"
+          } ],
+          "timestamp": "2023-09-09T15:47:00Z",
+          "scm_ref": "jdk-17.0.8.1+1",
+          "openjdk_scm_ref": "jdk-17.0.8.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu17/zulu17.44.53-ca-jdk17.0.8.1-macosx_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu17.44.53-ca-jdk17.0.8.1-macosx_x64.tar.gz.pdf"
+        },
+        {
+          "os": "mac",
+          "architecture": "x64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu17.44.53-ca-jre17.0.8.1-macosx_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu17.44.53-ca-jre17.0.8.1-macosx_x64.tar.gz",
+            "sha265sum": "36072d8991ef4d4978bfa4592edbd7aaba93b6fed6e880b0e72ea6b4a7a0fc17"
+          },
+          "timestamp": "2023-09-09T15:47:00Z",
+          "scm_ref": "jdk-17.0.8.1+1",
+          "openjdk_scm_ref": "jdk-17.0.8.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu17/zulu17.44.53-ca-jre17.0.8.1-macosx_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu17.44.53-ca-jre17.0.8.1-macosx_x64.tar.gz.pdf"
+        },
+        {
+          "os": "mac",
+          "architecture": "aarch64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu17.44.53-ca-jdk17.0.8.1-macosx_aarch64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu17.44.53-ca-jdk17.0.8.1-macosx_aarch64.tar.gz",
+            "sha265sum": "314b04568ec0ae9b36ba03c9cbd42adc9e1265f74678923b19297d66eb84dcca"
+          },
+          "installer" : [ {
+            "name" : "zulu17.44.53-ca-jdk17.0.8.1-macosx_aarch64.dmg",
+            "link" : "https://cdn.azul.com/zulu/bin/zulu17.44.53-ca-jdk17.0.8.1-macosx_aarch64.dmg",
+            "sha265sum" : "2467656096bc298e79be1526ea475e3e4cdd86ff17f9051b00194387993f54e8"
+          } ],
+          "timestamp": "2023-09-09T15:47:00Z",
+          "scm_ref": "jdk-17.0.8.1+1",
+          "openjdk_scm_ref": "jdk-17.0.8.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu17/zulu17.44.53-ca-jdk17.0.8.1-macosx_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu17.44.53-ca-jdk17.0.8.1-macosx_aarch64.tar.gz.pdf"
+        },
+        {
+          "os": "mac",
+          "architecture": "aarch64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu17.44.53-ca-jre17.0.8.1-macosx_aarch64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu17.44.53-ca-jre17.0.8.1-macosx_aarch64.tar.gz",
+            "sha265sum": "3b0fb67919d7cbbd54865d3aa0ee7308ae6edf6d02a2a4899b96261b3bf145f6"
+          },
+          "installer" : [ {
+            "name" : "zulu17.44.53-ca-jre17.0.8.1-macosx_aarch64.dmg",
+            "link" : "https://cdn.azul.com/zulu/bin/zulu17.44.53-ca-jre17.0.8.1-macosx_aarch64.dmg",
+            "sha265sum" : "1a86c138de2c76712e8d4fb8cc1e92bae438ec3f0e0f2b13e5507c791bac0ddb"
+          } ],
+          "timestamp": "2023-09-09T15:47:00Z",
+          "scm_ref": "jdk-17.0.8.1+1",
+          "openjdk_scm_ref": "jdk-17.0.8.1+1",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu17/zulu17.44.53-ca-jre17.0.8.1-macosx_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu17.44.53-ca-jre17.0.8.1-macosx_aarch64.tar.gz.pdf"
+        }
+      ],
+      "vendor" : "azul",
+      "openjdk_version_data" : {
+        "major" : 17,
+        "minor" : 0,
+        "security" : 8,
+        "patch" : 1,
+        "pre" : null,
+        "build" : 1,
+        "optional" : null,
+        "openjdk_version" : "17.0.8.1+1"
+      }
+    }
+  ]
+}
