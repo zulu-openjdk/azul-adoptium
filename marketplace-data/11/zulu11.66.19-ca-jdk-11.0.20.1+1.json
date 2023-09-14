@@ -405,7 +405,7 @@
           "package": {
             "name": "zulu11.66.19-ca-jre11.0.20.1-solaris_sparcv9.zip",
             "link": "https://cdn.azul.com/zulu/bin/zulu11.66.19-ca-jre11.0.20.1-solaris_sparcv9.zip",
-            "sha265sum": "28489a250408c92366c683f94b1d562d1a4bfa1f77f9715a1d0313f261cf00d5"
+            "sha265sum": "c69b926d62b66e5fba90409bee95448f6138af16ffa900df33c0aef812927ddd"
           },
           "timestamp": "2023-09-09T14:46:00Z",
           "scm_ref": "jdk-11.0.20.1+1",
