@@ -3,7 +3,7 @@
     {
       "release_link": "https://www.azul.com/downloads",
       "release_name": "zulu11.68.17-ca-jdk-11.0.21+9",
-      "last_updated_timestamp": "2023-10-18T14:25:00Z",
+      "last_updated_timestamp": "2023-10-31T08:42:00Z",
       "binaries": [
         {
           "os": "linux",
@@ -140,6 +140,40 @@
           "distribution": "zulu",
           "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.68.17-ca-jre11.0.21-linux_musl_x64.tap.zip",
           "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.68.17-ca-jre11.0.21-linux_musl_x64.tar.gz.pdf"
+        },
+        {
+          "os": "alpine_linux",
+          "architecture": "aarch64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.68.17-ca-jdk11.0.21-linux_musl_aarch64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.68.17-ca-jdk11.0.21-linux_musl_aarch64.tar.gz",
+            "sha265sum": "5457911780bd096dbf0c297157af1fb21f598343c85abb863c7f0856bed26142"
+          },
+          "timestamp": "2023-10-31T08:42:00Z",
+          "scm_ref": "jdk-11.0.21+9",
+          "openjdk_scm_ref": "jdk-11.0.21+9",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.68.17-ca-jdk11.0.21-linux_musl_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.68.17-ca-jdk11.0.21-linux_musl_aarch64.tar.gz.pdf"
+        },
+        {
+          "os": "alpine_linux",
+          "architecture": "aarch64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.68.17-ca-jre11.0.21-linux_musl_aarch64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.68.17-ca-jre11.0.21-linux_musl_aarch64.tar.gz",
+            "sha265sum": "7ad1b460ba5a0029d9d8cb9498908fff5dd50674a5ca79c4b864c526286d1f77"
+          },
+          "timestamp": "2023-10-31T08:42:00Z",
+          "scm_ref": "jdk-11.0.21+9",
+          "openjdk_scm_ref": "jdk-11.0.21+9",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.68.17-ca-jre11.0.21-linux_musl_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.68.17-ca-jre11.0.21-linux_musl_aarch64.tar.gz.pdf"
         },
         {
           "os": "windows",
