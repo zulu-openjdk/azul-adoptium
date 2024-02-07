@@ -3,7 +3,7 @@
     {
       "release_link": "https://www.azul.com/downloads",
       "release_name": "zulu8.76.0.17-ca-jdk8u402-b06",
-      "last_updated_timestamp": "2024-01-10T13:17:00Z",
+      "last_updated_timestamp": "2024-01-17T13:17:00Z",
       "binaries": [
         {
           "os": "linux",
@@ -15,7 +15,7 @@
             "link": "https://cdn.azul.com/zulu/bin/zulu8.76.0.17-ca-jdk8.0.402-linux_x64.tar.gz",
             "sha265sum": "df80c8e8eed3f22a831ec5fadd2df193e04a0eef081d145636fb71a6c9d42449"
           },
-          "timestamp": "2024-01-10T13:17:00Z",
+          "timestamp": "2024-01-17T13:17:00Z",
           "scm_ref": "jdk8u402-b06",
           "openjdk_scm_ref": "jdk8u402-b06",
           "distribution": "zulu",
@@ -32,7 +32,7 @@
             "link": "https://cdn.azul.com/zulu/bin/zulu8.76.0.17-ca-jre8.0.402-linux_x64.tar.gz",
             "sha265sum": "a9bd2cdf8c03a7e6e139d594c8a94c6dc9721bf3da55286144d4afbf9a063335"
           },
-          "timestamp": "2024-01-10T13:17:00Z",
+          "timestamp": "2024-01-17T13:17:00Z",
           "scm_ref": "jdk8u402-b06",
           "openjdk_scm_ref": "jdk8u402-b06",
           "distribution": "zulu",
@@ -49,7 +49,7 @@
             "link": "https://cdn.azul.com/zulu/bin/zulu8.76.0.17-ca-jdk8.0.402-linux_i686.tar.gz",
             "sha265sum": "f3cfd84b0d16564f4b176a6c416a7d89d72e5537626bb9083586afbdb938a34b"
           },
-          "timestamp": "2024-01-10T13:17:00Z",
+          "timestamp": "2024-01-17T13:17:00Z",
           "scm_ref": "jdk8u402-b06",
           "openjdk_scm_ref": "jdk8u402-b06",
           "distribution": "zulu",
@@ -66,7 +66,7 @@
             "link": "https://cdn.azul.com/zulu/bin/zulu8.76.0.17-ca-jre8.0.402-linux_i686.tar.gz",
             "sha265sum": "c04bc91a5bab41e7bea878626f3cea7de84b3bc07412272329b2303e12ea72a3"
           },
-          "timestamp": "2024-01-10T13:17:00Z",
+          "timestamp": "2024-01-17T13:17:00Z",
           "scm_ref": "jdk8u402-b06",
           "openjdk_scm_ref": "jdk8u402-b06",
           "distribution": "zulu",
@@ -83,7 +83,7 @@
             "link": "https://cdn.azul.com/zulu/bin/zulu8.76.0.17-ca-jdk8.0.402-linux_musl_x64.tar.gz",
             "sha265sum": "9a1bd8fdb8606455a6c5e30f740238aeff05c0f9a96caabd2efc4c66903eab8c"
           },
-          "timestamp": "2024-01-10T13:17:00Z",
+          "timestamp": "2024-01-17T13:17:00Z",
           "scm_ref": "jdk8u402-b06",
           "openjdk_scm_ref": "jdk8u402-b06",
           "distribution": "zulu",
@@ -100,7 +100,7 @@
             "link": "https://cdn.azul.com/zulu/bin/zulu8.76.0.17-ca-jre8.0.402-linux_musl_x64.tar.gz",
             "sha265sum": "c68dd8eaf30f225b03c02e1bfe61348747bd1906ed0f0a6b2f24810d0dc3ea4e"
           },
-          "timestamp": "2024-01-10T13:17:00Z",
+          "timestamp": "2024-01-17T13:17:00Z",
           "scm_ref": "jdk8u402-b06",
           "openjdk_scm_ref": "jdk8u402-b06",
           "distribution": "zulu",
@@ -117,7 +117,7 @@
             "link": "https://cdn.azul.com/zulu/bin/zulu8.76.0.17-ca-jdk8.0.402-linux_musl_aarch64.tar.gz",
             "sha265sum": "b37ec65ad5ca241f5cb1d0f65929af7be4230b8bf18cfa1b131bae946ecf4def"
           },
-          "timestamp": "2024-01-10T13:17:00Z",
+          "timestamp": "2024-01-17T13:17:00Z",
           "scm_ref": "jdk8u402-b06",
           "openjdk_scm_ref": "jdk8u402-b06",
           "distribution": "zulu",
@@ -134,7 +134,7 @@
             "link": "https://cdn.azul.com/zulu/bin/zulu8.76.0.17-ca-jre8.0.402-linux_musl_aarch64.tar.gz",
             "sha265sum": "8b36560f318918299e1e64d4b0ad19df12bf6c0c2277024951071223e6c73fe2"
           },
-          "timestamp": "2024-01-10T13:17:00Z",
+          "timestamp": "2024-01-17T13:17:00Z",
           "scm_ref": "jdk8u402-b06",
           "openjdk_scm_ref": "jdk8u402-b06",
           "distribution": "zulu",
@@ -156,7 +156,7 @@
             "link" : "https://cdn.azul.com/zulu/bin/zulu8.76.0.17-ca-jdk8.0.402-macosx_x64.dmg",
             "sha265sum" : "0829cc9137818b28cdff1a805f6cd7527fe806a59ef09640b3c2fb22852c886d"
           } ],
-          "timestamp": "2024-01-10T13:17:00Z",
+          "timestamp": "2024-01-17T13:17:00Z",
           "scm_ref": "jdk8u402-b06",
           "openjdk_scm_ref": "jdk8u402-b06",
           "distribution": "zulu",
@@ -173,7 +173,7 @@
             "link": "https://cdn.azul.com/zulu/bin/zulu8.76.0.17-ca-jre8.0.402-macosx_x64.tar.gz",
             "sha265sum": "1218c0b531a301b2c58fdfdd1194ffbedf799fbf7b66c5d214ba10a4a1f945af"
           },
-          "timestamp": "2024-01-10T13:17:00Z",
+          "timestamp": "2024-01-17T13:17:00Z",
           "scm_ref": "jdk8u402-b06",
           "openjdk_scm_ref": "jdk8u402-b06",
           "distribution": "zulu",
@@ -195,7 +195,7 @@
             "link" : "https://cdn.azul.com/zulu/bin/zulu8.76.0.17-ca-jdk8.0.402-macosx_aarch64.dmg",
             "sha265sum" : "8fbb9378a8900047fab8c9b6d988d562d5fb39dfb595bef4ba9746f3b41aa8f1"
           } ],
-          "timestamp": "2024-01-10T13:17:00Z",
+          "timestamp": "2024-01-17T13:17:00Z",
           "scm_ref": "jdk8u402-b06",
           "openjdk_scm_ref": "jdk8u402-b06",
           "distribution": "zulu",
@@ -217,7 +217,7 @@
             "link" : "https://cdn.azul.com/zulu/bin/zulu8.76.0.17-ca-jre8.0.402-macosx_aarch64.dmg",
             "sha265sum" : "3167a1d664d6fbb98fb02054cd3c3667ab1f88caf4be78d70e2f554d1f6a3ade"
           } ],
-          "timestamp": "2024-01-10T13:17:00Z",
+          "timestamp": "2024-01-17T13:17:00Z",
           "scm_ref": "jdk8u402-b06",
           "openjdk_scm_ref": "jdk8u402-b06",
           "distribution": "zulu",
@@ -239,7 +239,7 @@
             "link" : "https://cdn.azul.com/zulu/bin/zulu8.76.0.17-ca-jdk8.0.402-win_x64.msi",
             "sha265sum" : "be9484f06df10b5b2552a62ae309153e0872fbc61126e2f39fb93850e3ed53fa"
           } ],
-          "timestamp": "2024-01-10T13:17:00Z",
+          "timestamp": "2024-01-17T13:17:00Z",
           "scm_ref": "jdk8u402-b06",
           "openjdk_scm_ref": "jdk8u402-b06",
           "distribution": "zulu",
@@ -261,7 +261,7 @@
             "link" : "https://cdn.azul.com/zulu/bin/zulu8.76.0.17-ca-jre8.0.402-win_x64.msi",
             "sha265sum" : "a05d92a956c57ee81b957527a77e6a2166625e0e640bb69212e43bef0134387f"
           } ],
-          "timestamp": "2024-01-10T13:17:00Z",
+          "timestamp": "2024-01-17T13:17:00Z",
           "scm_ref": "jdk8u402-b06",
           "openjdk_scm_ref": "jdk8u402-b06",
           "distribution": "zulu",
@@ -283,7 +283,7 @@
             "link" : "https://cdn.azul.com/zulu/bin/zulu8.76.0.17-ca-jdk8.0.402-win_i686.msi",
             "sha265sum" : "7b0f9d1e010909b411c368957328f5a92582330afcd9fe1258713f823f332f1f"
           } ],
-          "timestamp": "2024-01-10T13:17:00Z",
+          "timestamp": "2024-01-17T13:17:00Z",
           "scm_ref": "jdk8u402-b06",
           "openjdk_scm_ref": "jdk8u402-b06",
           "distribution": "zulu",
@@ -305,7 +305,7 @@
             "link" : "https://cdn.azul.com/zulu/bin/zulu8.76.0.17-ca-jre8.0.402-win_i686.msi",
             "sha265sum" : "afa4e04b42a9a8f7e6ac7a57e83e893026dc712d6be85d5ea80786d1eadfdf09"
           } ],
-          "timestamp": "2024-01-10T13:17:00Z",
+          "timestamp": "2024-01-17T13:17:00Z",
           "scm_ref": "jdk8u402-b06",
           "openjdk_scm_ref": "jdk8u402-b06",
           "distribution": "zulu",
@@ -322,7 +322,7 @@
             "link": "https://cdn.azul.com/zulu/bin/zulu8.76.0.17-ca-jdk8.0.402-solaris_x64.zip",
             "sha265sum": "b38ba508b6b2e65cdac1603e02c32adb8443d2e52e2a6b43c39739fb120de5f1"
           },
-          "timestamp": "2024-01-10T13:17:00Z",
+          "timestamp": "2024-01-17T13:17:00Z",
           "scm_ref": "jdk8u402-b06",
           "openjdk_scm_ref": "jdk8u402-b06",
           "distribution": "zulu",
@@ -339,7 +339,7 @@
             "link": "https://cdn.azul.com/zulu/bin/zulu8.76.0.17-ca-jdk8.0.402-solaris_sparcv9.zip",
             "sha265sum": "0695cfdcd5a664c12480dc8ea8f11f91f1a197c9d9af8284a0df1d45352e0898"
           },
-          "timestamp": "2024-01-10T13:17:00Z",
+          "timestamp": "2024-01-17T13:17:00Z",
           "scm_ref": "jdk8u402-b06",
           "openjdk_scm_ref": "jdk8u402-b06",
           "distribution": "zulu",
