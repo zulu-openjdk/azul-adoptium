@@ -1,0 +1,431 @@
+{
+  "releases": [
+    {
+      "release_link": "https://www.azul.com/downloads",
+      "release_name": "zulu11.70.15-ca-jdk-11.0.22+7",
+      "last_updated_timestamp": "2024-01-17T13:17:00Z",
+      "binaries": [
+        {
+          "os": "linux",
+          "architecture": "x64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.70.15-ca-jdk11.0.22-linux_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jdk11.0.22-linux_x64.tar.gz",
+            "sha265sum": "578d5946b26d9257b78e82a1c28203e5bbd690de48e2016399b1274c3ee7a3c5"
+          },
+          "timestamp": "2024-01-17T13:17:00Z",
+          "scm_ref": "jdk-11.0.22+7",
+          "openjdk_scm_ref": "jdk-11.0.22+7",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.70.15-ca-jdk11.0.22-linux_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.70.15-ca-jdk11.0.22-linux_x64.tar.gz.pdf"
+        },
+        {
+          "os": "linux",
+          "architecture": "x64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.70.15-ca-jre11.0.22-linux_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jre11.0.22-linux_x64.tar.gz",
+            "sha265sum": "f26a1a272e2db2561e6cd2dfa7e4511790cd4a7b12933c57c1c6be7a8a92fe73"
+          },
+          "timestamp": "2024-01-17T13:17:00Z",
+          "scm_ref": "jdk-11.0.22+7",
+          "openjdk_scm_ref": "jdk-11.0.22+7",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.70.15-ca-jre11.0.22-linux_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.70.15-ca-jre11.0.22-linux_x64.tar.gz.pdf"
+        },
+        {
+          "os": "linux",
+          "architecture": "x86",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.70.15-ca-jdk11.0.22-linux_i686.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jdk11.0.22-linux_i686.tar.gz",
+            "sha265sum": "e48c8060de5d4c4e2c1be476fcc57f22c77df3195ecdeba3049674d9922491a7"
+          },
+          "timestamp": "2024-01-17T13:17:00Z",
+          "scm_ref": "jdk-11.0.22+7",
+          "openjdk_scm_ref": "jdk-11.0.22+7",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.70.15-ca-jdk11.0.22-linux_i686.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.70.15-ca-jdk11.0.22-linux_i686.tar.gz.pdf"
+        },
+        {
+          "os": "linux",
+          "architecture": "x86",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.70.15-ca-jre11.0.22-linux_i686.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jre11.0.22-linux_i686.tar.gz",
+            "sha265sum": "b6e258e330a9bc28d457dd701eeb8170db282498a867b98ea1bae005292ba99e"
+          },
+          "timestamp": "2024-01-17T13:17:00Z",
+          "scm_ref": "jdk-11.0.22+7",
+          "openjdk_scm_ref": "jdk-11.0.22+7",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.70.15-ca-jre11.0.22-linux_i686.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.70.15-ca-jre11.0.22-linux_i686.tar.gz.pdf"
+        },
+        {
+          "os": "linux",
+          "architecture": "aarch64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.70.15-ca-jdk11.0.22-linux_aarch64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jdk11.0.22-linux_aarch64.tar.gz",
+            "sha265sum": "bba5d6317000ad484c31bea3dca14e864231a55611d6860b17459d7bbfed2349"
+          },
+          "timestamp": "2024-01-17T13:17:00Z",
+          "scm_ref": "jdk-11.0.22+7",
+          "openjdk_scm_ref": "jdk-11.0.22+7",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.70.15-ca-jdk11.0.22-linux_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.70.15-ca-jdk11.0.22-linux_aarch64.tar.gz.pdf"
+        },
+        {
+          "os": "linux",
+          "architecture": "aarch64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.70.15-ca-jre11.0.22-linux_aarch64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jre11.0.22-linux_aarch64.tar.gz",
+            "sha265sum": "3d0f9f16d61c6967dcd3cc8ec06a7ce7420c2a497d15280b475d2cb046b39778"
+          },
+          "timestamp": "2024-01-17T13:17:00Z",
+          "scm_ref": "jdk-11.0.22+7",
+          "openjdk_scm_ref": "jdk-11.0.22+7",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.70.15-ca-jre11.0.22-linux_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.70.15-ca-jre11.0.22-linux_aarch64.tar.gz.pdf"
+        },
+        {
+          "os": "alpine_linux",
+          "architecture": "x64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.70.15-ca-jdk11.0.22-linux_musl_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jdk11.0.22-linux_musl_x64.tar.gz",
+            "sha265sum": "992d0cfb6c00eefd35e6f22e6b235dff9aeaaf9dc234728ce09e24986906772c"
+          },
+          "timestamp": "2024-01-17T13:17:00Z",
+          "scm_ref": "jdk-11.0.22+7",
+          "openjdk_scm_ref": "jdk-11.0.22+7",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.70.15-ca-jdk11.0.22-linux_musl_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.70.15-ca-jdk11.0.22-linux_musl_x64.tar.gz.pdf"
+        },
+        {
+          "os": "alpine_linux",
+          "architecture": "x64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.70.15-ca-jre11.0.22-linux_musl_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jre11.0.22-linux_musl_x64.tar.gz",
+            "sha265sum": "6dd336915318e2375debe4bc5ebf8c661237487728d7ece013c5fdbc8a877b4a"
+          },
+          "timestamp": "2024-01-17T13:17:00Z",
+          "scm_ref": "jdk-11.0.22+7",
+          "openjdk_scm_ref": "jdk-11.0.22+7",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.70.15-ca-jre11.0.22-linux_musl_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.70.15-ca-jre11.0.22-linux_musl_x64.tar.gz.pdf"
+        },
+        {
+          "os": "alpine_linux",
+          "architecture": "aarch64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.70.15-ca-jdk11.0.22-linux_musl_aarch64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jdk11.0.22-linux_musl_aarch64.tar.gz",
+            "sha265sum": "18d0989836f76002c8b0cb251a2ddb6b2e7da9168af713fed3e5d86149af7f6a"
+          },
+          "timestamp": "2024-01-17T13:17:00Z",
+          "scm_ref": "jdk-11.0.22+7",
+          "openjdk_scm_ref": "jdk-11.0.22+7",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.70.15-ca-jdk11.0.22-linux_musl_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.70.15-ca-jdk11.0.22-linux_musl_aarch64.tar.gz.pdf"
+        },
+        {
+          "os": "alpine_linux",
+          "architecture": "aarch64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.70.15-ca-jre11.0.22-linux_musl_aarch64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jre11.0.22-linux_musl_aarch64.tar.gz",
+            "sha265sum": "19f7394254371b52203198c38bf7c0722bf2967631c59b322448c75712b69964"
+          },
+          "timestamp": "2024-01-17T13:17:00Z",
+          "scm_ref": "jdk-11.0.22+7",
+          "openjdk_scm_ref": "jdk-11.0.22+7",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.70.15-ca-jre11.0.22-linux_musl_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.70.15-ca-jre11.0.22-linux_musl_aarch64.tar.gz.pdf"
+        },
+        {
+          "os": "windows",
+          "architecture": "x64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.70.15-ca-jdk11.0.22-win_x64.zip",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jdk11.0.22-win_x64.zip",
+            "sha265sum": "a9bfdd39be0f90d7ddffcbd486f00e8703b64e797521667e64fd631b0738cbbf"
+          },
+          "installer" : [ {
+            "name" : "zulu11.70.15-ca-jdk11.0.22-win_x64.msi",
+            "link" : "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jdk11.0.22-win_x64.msi",
+            "sha265sum" : "927d736c041a444ca833fb3587df3055c19045414223367222ad9a7974d83e0e"
+          } ],
+          "timestamp": "2024-01-17T13:17:00Z",
+          "scm_ref": "jdk-11.0.22+7",
+          "openjdk_scm_ref": "jdk-11.0.22+7",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.70.15-ca-jdk11.0.22-win_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.70.15-ca-jdk11.0.22-win_x64.zip.pdf"
+        },
+        {
+          "os": "windows",
+          "architecture": "x64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.70.15-ca-jre11.0.22-win_x64.zip",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jre11.0.22-win_x64.zip",
+            "sha265sum": "2d74c1e9c576dfe3fd1dcab9cff9377c3361ace3932a5c6bd73dacd3a0bf3186"
+          },
+          "installer" : [ {
+            "name" : "zulu11.70.15-ca-jre11.0.22-win_x64.msi",
+            "link" : "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jre11.0.22-win_x64.msi",
+            "sha265sum" : "9ae54a2a53a502fb1b7f2924cf7a41640988abc626ea51ef755837c2fe926f98"
+          } ],
+          "timestamp": "2024-01-17T13:17:00Z",
+          "scm_ref": "jdk-11.0.22+7",
+          "openjdk_scm_ref": "jdk-11.0.22+7",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.70.15-ca-jre11.0.22-win_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.70.15-ca-jre11.0.22-win_x64.zip.pdf"
+        },
+        {
+          "os": "windows",
+          "architecture": "x86",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.70.15-ca-jdk11.0.22-win_i686.zip",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jdk11.0.22-win_i686.zip",
+            "sha265sum": "a7867d9ba0f494963c668278a08c038d745d3d72d5f84fd4c17e7ddbfb614b7b"
+          },
+          "installer" : [ {
+            "name" : "zulu11.70.15-ca-jdk11.0.22-win_i686.msi",
+            "link" : "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jdk11.0.22-win_i686.msi",
+            "sha265sum" : "0f11497cd0560b1fe64274dc195cd3106234048b94391404a1a096f9c6349bf7"
+          } ],
+          "timestamp": "2024-01-17T13:17:00Z",
+          "scm_ref": "jdk-11.0.22+7",
+          "openjdk_scm_ref": "jdk-11.0.22+7",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.70.15-ca-jdk11.0.22-win_i686.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.70.15-ca-jdk11.0.22-win_i686.zip.pdf"
+        },
+        {
+          "os": "windows",
+          "architecture": "x86",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.70.15-ca-jre11.0.22-win_i686.zip",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jre11.0.22-win_i686.zip",
+            "sha265sum": "9523bd0c87ad0e17b888ff559ad07cdf1ae041d25393f897c033060a4974de86"
+          },
+          "installer" : [ {
+            "name" : "zulu11.70.15-ca-jre11.0.22-win_i686.msi",
+            "link" : "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jre11.0.22-win_i686.msi",
+            "sha265sum" : "36e38700941fd72020031e108ddc69e7fec887f653c513f51ed509373e4dd09d"
+          } ],
+          "timestamp": "2024-01-17T13:17:00Z",
+          "scm_ref": "jdk-11.0.22+7",
+          "openjdk_scm_ref": "jdk-11.0.22+7",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.70.15-ca-jre11.0.22-win_i686.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.70.15-ca-jre11.0.22-win_i686.zip.pdf"
+        },
+        {
+          "os": "mac",
+          "architecture": "x64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.70.15-ca-jdk11.0.22-macosx_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jdk11.0.22-macosx_x64.tar.gz",
+            "sha265sum": "71afedb643dedad6dc9b5aee82e0e03ecc4a59b11d29c202b0a0835daba9f4de"
+          },
+          "installer" : [ {
+            "name" : "zulu11.70.15-ca-jdk11.0.22-macosx_x64.dmg",
+            "link" : "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jdk11.0.22-macosx_x64.dmg",
+            "sha265sum" : "b834979f1a5ba0ce1379521d4383242796dfb9576c1013e017d8605e476c01e1"
+          } ],
+          "timestamp": "2024-01-17T13:17:00Z",
+          "scm_ref": "jdk-11.0.22+7",
+          "openjdk_scm_ref": "jdk-11.0.22+7",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.70.15-ca-jdk11.0.22-macosx_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.70.15-ca-jdk11.0.22-macosx_x64.tar.gz.pdf"
+        },
+        {
+          "os": "mac",
+          "architecture": "x64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.70.15-ca-jre11.0.22-macosx_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jre11.0.22-macosx_x64.tar.gz",
+            "sha265sum": "53bc5389157a92873a7a7cb121fa7432d78be1fde565f8081482e3296c2fcf6b"
+          },
+          "timestamp": "2024-01-17T13:17:00Z",
+          "scm_ref": "jdk-11.0.22+7",
+          "openjdk_scm_ref": "jdk-11.0.22+7",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.70.15-ca-jre11.0.22-macosx_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.70.15-ca-jre11.0.22-macosx_x64.tar.gz.pdf"
+        },
+        {
+          "os": "mac",
+          "architecture": "aarch64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.70.15-ca-jdk11.0.22-macosx_aarch64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jdk11.0.22-macosx_aarch64.tar.gz",
+            "sha265sum": "3d640e17e3fd76365aae3009684dc8d2db88d44e07ffde7ce15374e013339af3"
+          },
+          "installer" : [ {
+            "name" : "zulu11.70.15-ca-jdk11.0.22-macosx_aarch64.dmg",
+            "link" : "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jdk11.0.22-macosx_aarch64.dmg",
+            "sha265sum" : "7dc1eb63714ad56b14d56dc2c54cb05f9e3b4e36776e487be1bac0dbb7dab969"
+          } ],
+          "timestamp": "2024-01-17T13:17:00Z",
+          "scm_ref": "jdk-11.0.22+7",
+          "openjdk_scm_ref": "jdk-11.0.22+7",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.70.15-ca-jdk11.0.22-macosx_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.70.15-ca-jdk11.0.22-macosx_aarch64.tar.gz.pdf"
+        },
+        {
+          "os": "mac",
+          "architecture": "aarch64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.70.15-ca-jre11.0.22-macosx_aarch64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jre11.0.22-macosx_aarch64.tar.gz",
+            "sha265sum": "cf318b7b3c9152276e457d67f2252f51675a487e9622365916f4f9d82b6f4b6e"
+          },
+          "installer" : [ {
+            "name" : "zulu11.70.15-ca-jre11.0.22-macosx_aarch64.dmg",
+            "link" : "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jre11.0.22-macosx_aarch64.dmg",
+            "sha265sum" : "ca71e5606991fae90aa4b352f810fd8ae4123a10d4c94e840dce78985a4c3684"
+          } ],
+          "timestamp": "2024-01-17T13:17:00Z",
+          "scm_ref": "jdk-11.0.22+7",
+          "openjdk_scm_ref": "jdk-11.0.22+7",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.70.15-ca-jre11.0.22-macosx_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.70.15-ca-jre11.0.22-macosx_aarch64.tar.gz.pdf"
+        },
+        {
+          "os": "solaris",
+          "architecture": "x64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.70.15-ca-jdk11.0.22-solaris_x64.zip",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jdk11.0.22-solaris_x64.zip",
+            "sha265sum": "e4646dbf7a4e33ecf2a9cb9a2bb7049ca6aeb813fab4aca82d45d3f344c29a45"
+          },
+          "timestamp": "2024-01-17T13:17:00Z",
+          "scm_ref": "jdk-11.0.22+7",
+          "openjdk_scm_ref": "jdk-11.0.22+7",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.70.15-ca-jdk11.0.22-solaris_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.70.15-ca-jdk11.0.22-solaris_x64.zip.pdf"
+        },
+        {
+          "os": "solaris",
+          "architecture": "x64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.70.15-ca-jre11.0.22-solaris_x64.zip",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jre11.0.22-solaris_x64.zip",
+            "sha265sum": "ce986c480ba838607d5a21be3dcaf11696f2b890aa1db71ee465511bd8227741"
+          },
+          "timestamp": "2024-01-17T13:17:00Z",
+          "scm_ref": "jdk-11.0.22+7",
+          "openjdk_scm_ref": "jdk-11.0.22+7",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.70.15-ca-jre11.0.22-solaris_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.70.15-ca-jre11.0.22-solaris_x64.zip.pdf"
+        },
+        {
+          "os": "solaris",
+          "architecture": "sparcv9",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.70.15-ca-jdk11.0.22-solaris_sparcv9.zip",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jdk11.0.22-solaris_sparcv9.zip",
+            "sha265sum": "57d2165c4e1b04a0054cb5005d973e92ad7946d0223ddc83e813e27cd8f68af4"
+          },
+          "timestamp": "2024-01-17T13:17:00Z",
+          "scm_ref": "jdk-11.0.22+7",
+          "openjdk_scm_ref": "jdk-11.0.22+7",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.70.15-ca-jdk11.0.22-solaris_sparcv9.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.70.15-ca-jdk11.0.22-solaris_sparcv9.zip.pdf"
+        },
+        {
+          "os": "solaris",
+          "architecture": "sparcv9",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.70.15-ca-jre11.0.22-solaris_sparcv9.zip",
+            "link": "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jre11.0.22-solaris_sparcv9.zip",
+            "sha265sum": "636136099bfb50e0e491e7991066947bf84d973c6e5d3ce7f1be4d820fc8ac0e"
+          },
+          "timestamp": "2024-01-17T13:17:00Z",
+          "scm_ref": "jdk-11.0.22+7",
+          "openjdk_scm_ref": "jdk-11.0.22+7",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.70.15-ca-jre11.0.22-solaris_sparcv9.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.70.15-ca-jre11.0.22-solaris_sparcv9.zip.pdf"
+        }
+      ],
+      "vendor" : "azul",
+      "openjdk_version_data" : {
+        "major" : 11,
+        "minor" : 0,
+        "security" : 22,
+        "patch" : null,
+        "pre" : null,
+        "build" : 7,
+        "optional" : null,
+        "openjdk_version" : "jdk-11.0.22+7"
+      }
+    }
+  ]
+}
