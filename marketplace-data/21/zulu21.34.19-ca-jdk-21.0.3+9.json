@@ -1,0 +1,297 @@
+{
+  "releases": [
+    {
+      "release_link": "https://www.azul.com/downloads",
+      "release_name": "zulu21.34.19-ca-jdk-21.0.3+9",
+      "last_updated_timestamp": "2024-04-16T18:49:00Z",
+      "binaries": [
+        {
+          "os": "linux",
+          "architecture": "x64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu21.34.19-ca-jdk21.0.3-linux_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu21.34.19-ca-jdk21.0.3-linux_x64.tar.gz",
+            "sha265sum": "ca763d1308a6bcc768382f160733a08e591d5f595a7dd9e51b60d27d54828dcc"
+          },
+          "timestamp": "2024-04-16T10:41:00Z",
+          "scm_ref": "jdk-21.0.3+9",
+          "openjdk_scm_ref": "jdk-21.0.3+9",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu21/zulu21.34.19-ca-jdk21.0.3-linux_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu21.34.19-ca-jdk21.0.3-linux_x64.tar.gz.pdf"
+        },
+        {
+          "os": "linux",
+          "architecture": "x64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu21.34.19-ca-jre21.0.3-linux_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu21.34.19-ca-jre21.0.3-linux_x64.tar.gz",
+            "sha265sum": "a22dbf29ca368651088391094e9e64f653cc5a332f536ea4e7c3a6d82b2a5fe4"
+          },
+          "timestamp": "2024-04-16T10:41:00Z",
+          "scm_ref": "jdk-21.0.3+9",
+          "openjdk_scm_ref": "jdk-21.0.3+9",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu21/zulu21.34.19-ca-jre21.0.3-linux_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu21.34.19-ca-jre21.0.3-linux_x64.tar.gz.pdf"
+        },
+        {
+          "os": "linux",
+          "architecture": "aarch64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu21.34.19-ca-jdk21.0.3-linux_aarch64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu21.34.19-ca-jdk21.0.3-linux_aarch64.tar.gz",
+            "sha265sum": "c898d4ce365c8926e22859c06be4a81bafb9fd0126088867e15a528fe99b1599"
+          },
+          "timestamp": "2024-04-16T10:41:00Z",
+          "scm_ref": "jdk-21.0.3+9",
+          "openjdk_scm_ref": "jdk-21.0.3+9",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu21/zulu21.34.19-ca-jdk21.0.3-linux_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu21.34.19-ca-jdk21.0.3-linux_aarch64.tar.gz.pdf"
+        },
+        {
+          "os": "linux",
+          "architecture": "aarch64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu21.34.19-ca-jre21.0.3-linux_aarch64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu21.34.19-ca-jre21.0.3-linux_aarch64.tar.gz",
+            "sha265sum": "908b0357131747df386784e0e961e244fe8234e056b489cdfde3ffe1db8132d6"
+          },
+          "timestamp": "2024-04-16T10:41:00Z",
+          "scm_ref": "jdk-21.0.3+9",
+          "openjdk_scm_ref": "jdk-21.0.3+9",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu21/zulu21.34.19-ca-jre21.0.3-linux_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu21.34.19-ca-jre21.0.3-linux_aarch64.tar.gz.pdf"
+        },
+        {
+          "os": "alpine_linux",
+          "architecture": "x64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu21.34.19-ca-jdk21.0.3-linux_musl_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu21.34.19-ca-jdk21.0.3-linux_musl_x64.tar.gz",
+            "sha265sum": "b43feb0d2bdbdae7ff5b9427080b3c7b03b7352beebfea2bae7c42fae28020a5"
+          },
+          "timestamp": "2024-04-16T10:41:00Z",
+          "scm_ref": "jdk-21.0.3+9",
+          "openjdk_scm_ref": "jdk-21.0.3+9",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu21/zulu21.34.19-ca-jdk21.0.3-linux_musl_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu21.34.19-ca-jdk21.0.3-linux_musl_x64.tar.gz.pdf"
+        },
+        {
+          "os": "alpine_linux",
+          "architecture": "x64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu21.34.19-ca-jre21.0.3-linux_musl_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu21.34.19-ca-jre21.0.3-linux_musl_x64.tar.gz",
+            "sha265sum": "328ef21d9920702673025cf4530d50ab2bb149c9511963751d9e47f3b4b30056"
+          },
+          "timestamp": "2024-04-16T10:41:00Z",
+          "scm_ref": "jdk-21.0.3+9",
+          "openjdk_scm_ref": "jdk-21.0.3+9",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu21/zulu21.34.19-ca-jre21.0.3-linux_musl_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu21.34.19-ca-jre21.0.3-linux_musl_x64.tar.gz.pdf"
+        },
+        {
+          "os": "alpine_linux",
+          "architecture": "aarch64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu21.34.19-ca-jdk21.0.3-linux_musl_aarch64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu21.34.19-ca-jdk21.0.3-linux_musl_aarch64.tar.gz",
+            "sha265sum": "22c4ecebe5ebabc0f4c7fca511fd0e7f621c7822abedb89a632d987266f6c73f"
+          },
+          "timestamp": "2024-04-16T10:41:00Z",
+          "scm_ref": "jdk-21.0.3+9",
+          "openjdk_scm_ref": "jdk-21.0.3+9",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu21/zulu21.34.19-ca-jdk21.0.3-linux_musl_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu21.34.19-ca-jdk21.0.3-linux_musl_aarch64.tar.gz.pdf"
+        },
+        {
+          "os": "alpine_linux",
+          "architecture": "aarch64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu21.34.19-ca-jre21.0.3-linux_musl_aarch64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu21.34.19-ca-jre21.0.3-linux_musl_aarch64.tar.gz",
+            "sha265sum": "047eadf7de4120ffc25fa256c090041acc159f859b0b90634204e84753f93124"
+          },
+          "timestamp": "2024-04-16T10:41:00Z",
+          "scm_ref": "jdk-21.0.3+9",
+          "openjdk_scm_ref": "jdk-21.0.3+9",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu21/zulu21.34.19-ca-jre21.0.3-linux_musl_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu21.34.19-ca-jre21.0.3-linux_musl_aarch64.tar.gz.pdf"
+        },
+        {
+          "os": "windows",
+          "architecture": "x64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu21.34.19-ca-jdk21.0.3-win_x64.zip",
+            "link": "https://cdn.azul.com/zulu/bin/zulu21.34.19-ca-jdk21.0.3-win_x64.zip",
+            "sha265sum": "fb9f0dc6a484b0b169b3b3a3c2425d5f62bebfd15cb06c1597e33f77959c72af"
+          },
+          "installer" : [ {
+            "name" : "zulu21.34.19-ca-jdk21.0.3-win_x64.msi",
+            "link" : "https://cdn.azul.com/zulu/bin/zulu21.34.19-ca-jdk21.0.3-win_x64.msi",
+            "sha265sum" : "a7e9b74b0d4809a77f6c13cbbd65ce0baa0b923281333179972ed25326ebe3d7"
+          } ],
+          "timestamp": "2024-04-16T10:41:00Z",
+          "scm_ref": "jdk-21.0.3+9",
+          "openjdk_scm_ref": "jdk-21.0.3+9",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu21/zulu21.34.19-ca-jdk21.0.3-win_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu21.34.19-ca-jdk21.0.3-win_x64.zip.pdf"
+        },
+        {
+          "os": "windows",
+          "architecture": "x64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu21.34.19-ca-jre21.0.3-win_x64.zip",
+            "link": "https://cdn.azul.com/zulu/bin/zulu21.34.19-ca-jre21.0.3-win_x64.zip",
+            "sha265sum": "56c17e0f152055bfc110347b017e1efd2e1fc243e483d2e3fe371910287059f9"
+          },
+          "timestamp": "2024-04-16T10:41:00Z",
+          "scm_ref": "jdk-21.0.3+9",
+          "openjdk_scm_ref": "jdk-21.0.3+9",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu21/zulu21.34.19-ca-jre21.0.3-win_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu21.34.19-ca-jre21.0.3-win_x64.zip.pdf"
+        },
+        {
+          "os": "windows",
+          "architecture": "aarch64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu21.34.19-ca-jdk21.0.3-win_aarch64.zip",
+            "link": "https://cdn.azul.com/zulu/bin/zulu21.34.19-ca-jdk21.0.3-win_aarch64.zip",
+            "sha265sum": "5c05d2c90e95c0fd208d46a7278d7101eb6b9db21a4ed7c7c3d64b4ccb6cf723"
+          },
+          "timestamp": "2024-04-16T10:41:00Z",
+          "scm_ref": "jdk-21.0.3+9",
+          "openjdk_scm_ref": "jdk-21.0.3+9",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu17/zulu21.34.19-ca-jdk21.0.3-win_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu21.34.19-ca-jdk21.0.3-win_aarch64.zip.pdf"
+        },
+        {
+          "os": "mac",
+          "architecture": "x64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu21.34.19-ca-jdk21.0.3-macosx_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu21.34.19-ca-jdk21.0.3-macosx_x64.tar.gz",
+            "sha265sum": "148006a220a18922d7a9c52ac0bad099c5b4e60334a8d02b11f8c945e9ec9a34"
+          },
+          "installer" : [ {
+            "name" : "zulu21.34.19-ca-jdk21.0.3-macosx_x64.dmg",
+            "link" : "https://cdn.azul.com/zulu/bin/zulu21.34.19-ca-jdk21.0.3-macosx_x64.dmg",
+            "sha265sum" : "faa9bfaa393412295e9222cddaedcc5af066236517e3452a3b4323ea8a241df6"
+          } ],
+          "timestamp": "2024-04-16T18:49:00Z",
+          "scm_ref": "jdk-21.0.3+9",
+          "openjdk_scm_ref": "jdk-21.0.3+9",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu21/zulu21.34.19-ca-jdk21.0.3-macosx_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu21.34.19-ca-jdk21.0.3-macosx_x64.tar.gz.pdf"
+        },
+        {
+          "os": "mac",
+          "architecture": "x64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu21.34.19-ca-jre21.0.3-macosx_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu21.34.19-ca-jre21.0.3-macosx_x64.tar.gz",
+            "sha265sum": "cd319c844ee2eba5d6a4319b41f7fb37c63693aa31aa5434346f304db340f881"
+          },
+          "timestamp": "2024-04-16T18:49:00Z",
+          "scm_ref": "jdk-21.0.3+9",
+          "openjdk_scm_ref": "jdk-21.0.3+9",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu21/zulu21.34.19-ca-jre21.0.3-macosx_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu21.34.19-ca-jre21.0.3-macosx_x64.tar.gz.pdf"
+        },
+        {
+          "os": "mac",
+          "architecture": "aarch64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu21.34.19-ca-jdk21.0.3-macosx_aarch64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu21.34.19-ca-jdk21.0.3-macosx_aarch64.tar.gz",
+            "sha265sum": "4f42a561909d71868a700cf2efa1390e1b9e04863f3fa75ea30c4965e5a702f0"
+          },
+          "installer" : [ {
+            "name" : "zulu21.34.19-ca-jdk21.0.3-macosx_aarch64.dmg",
+            "link" : "https://cdn.azul.com/zulu/bin/zulu21.34.19-ca-jdk21.0.3-macosx_aarch64.dmg",
+            "sha265sum" : "54f90fd9e89e961eff94246e2afa424fb03c8259fbbfbfe88d13664fd1b5b4e9"
+          } ],
+          "timestamp": "2024-04-16T18:49:00Z",
+          "scm_ref": "jdk-21.0.3+9",
+          "openjdk_scm_ref": "jdk-21.0.3+9",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu21/zulu21.34.19-ca-jdk21.0.3-macosx_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu21.34.19-ca-jdk21.0.3-macosx_aarch64.tar.gz.pdf"
+        },
+        {
+          "os": "mac",
+          "architecture": "aarch64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu21.34.19-ca-jre21.0.3-macosx_aarch64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu21.34.19-ca-jre21.0.3-macosx_aarch64.tar.gz",
+            "sha265sum": "1688dc09d4ea56ff501ed6fb1af94fd4fa04c3d2e19974a56b507249b12b4f27"
+          },
+          "installer" : [ {
+            "name" : "zulu21.34.19-ca-jre21.0.3-macosx_aarch64.dmg",
+            "link" : "https://cdn.azul.com/zulu/bin/zulu21.34.19-ca-jre21.0.3-macosx_aarch64.dmg",
+            "sha265sum" : "3a229400bedfd69ca08e9c822a02fdbd10a3bb0be1cb185cba8d4eb595f5c033"
+          } ],
+          "timestamp": "2024-04-16T18:49:00Z",
+          "scm_ref": "jdk-21.0.3+9",
+          "openjdk_scm_ref": "jdk-21.0.3+9",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu21/zulu21.34.19-ca-jre21.0.3-macosx_aarch64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu21.34.19-ca-jre21.0.3-macosx_aarch64.tar.gz.pdf"
+        }
+      ],
+      "vendor" : "azul",
+      "openjdk_version_data" : {
+        "major" : 21,
+        "minor" : 0,
+        "security" : 3,
+        "patch" : null,
+        "pre" : null,
+        "build" : 9,
+        "optional" : null,
+        "openjdk_version" : "21.0.3+9"
+      }
+    }
+  ]
+}
