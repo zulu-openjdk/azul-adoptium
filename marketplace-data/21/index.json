@@ -3,6 +3,7 @@
   "indexes" : [ ],
   "releases" : [
     "zulu21.30.15-ca-jdk-21.0.1+12.json",
-    "zulu21.32.17-ca-jdk-21.0.2+13.json"
+    "zulu21.32.17-ca-jdk-21.0.2+13.json",
+    "zulu21.34.19-ca-jdk-21.0.3+9.json"
   ]
 }
