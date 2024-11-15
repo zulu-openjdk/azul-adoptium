@@ -3,7 +3,7 @@
     {
       "release_link": "https://www.azul.com/downloads",
       "release_name": "zulu17.54.21-ca-jdk-17.0.13+11",
-      "last_updated_timestamp": "2024-10-15T19:27:00Z",
+      "last_updated_timestamp": "2024-11-13T09:42:00Z",
       "binaries": [
         {
           "os": "linux",
@@ -174,6 +174,40 @@
           "distribution": "zulu",
           "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu17/zulu17.54.21-ca-jre17.0.13-linux_musl_aarch64.tap.zip",
           "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu17.54.21-ca-jre17.0.13-linux_musl_aarch64.tar.gz.pdf"
+        },
+        {
+          "os": "linux",
+          "architecture": "arm",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu17.54.21-ca-jdk17.0.13-c2-linux_aarch32hf.tar.gz",
+            "link": "https://cdn.azul.com/zulu-embedded/bin/zulu17.54.21-ca-jdk17.0.13-c2-linux_aarch32hf.tar.gz",
+            "sha265sum": "2a842f36bc2ab2fe7183f8c874391e00c6f159f54c5de2e689050b5e375e5394"
+          },
+          "timestamp": "2024-11-13T09:42:00Z",
+          "scm_ref": "jdk-17.0.13+11",
+          "openjdk_scm_ref": "jdk-17.0.13+11",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu17/zulu17.54.21-ca-jdk17.0.13-linux_aarch32hf.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu-embedded/pdf/cert.zulu17.54.21-ca-jdk17.0.13-c2-linux_aarch32hf.tar.gz.pdf"
+        },
+        {
+          "os": "linux",
+          "architecture": "arm",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu17.54.21-ca-jre17.0.13-c2-linux_aarch32hf.tar.gz",
+            "link": "https://cdn.azul.com/zulu-embedded/bin/zulu17.54.21-ca-jre17.0.13-c2-linux_aarch32hf.tar.gz",
+            "sha265sum": "197114ba2f7f32b26517a15155a1c5956c4ab53fd76c3ab9e0c35364fdbd1658"
+          },
+          "timestamp": "2024-11-13T09:42:00Z",
+          "scm_ref": "jdk-17.0.13+11",
+          "openjdk_scm_ref": "jdk-17.0.13+11",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu17/zulu17.54.21-ca-jre17.0.13-linux_aarch32hf.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu-embedded/pdf/cert.zulu17.54.21-ca-jre17.0.13-c2-linux_aarch32hf.tar.gz.pdf"
         },
         {
           "os": "windows",
