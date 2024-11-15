@@ -3,7 +3,7 @@
     {
       "release_link": "https://www.azul.com/downloads",
       "release_name": "zulu11.76.21-ca-jdk-11.0.25+9",
-      "last_updated_timestamp": "2024-10-15T19:27:00Z",
+      "last_updated_timestamp": "2024-11-13T09:42:00Z",
       "binaries": [
         {
           "os": "linux",
@@ -106,6 +106,23 @@
           "distribution": "zulu",
           "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.76.21-ca-jre11.0.25-linux_aarch64.tap.zip",
           "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.76.21-ca-jre11.0.25-linux_aarch64.tar.gz.pdf"
+        },
+        {
+          "os": "linux",
+          "architecture": "arm",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu11.76.21-ca-jdk11.0.25-linux_aarch32hf.tar.gz",
+            "link": "https://cdn.azul.com/zulu-embedded/bin/zulu11.76.21-ca-jdk11.0.25-linux_aarch32hf.tar.gz",
+            "sha265sum": "cb48c25d7dbfd183ccee5e3134968d368a3ad13976a85549ffc60a7ff6641fda"
+          },
+          "timestamp": "2024-11-13T09:42:00Z",
+          "scm_ref": "jdk-11.0.25+9",
+          "openjdk_scm_ref": "jdk-11.0.25+9",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.76.21-ca-jdk11.0.25-linux_aarch32hf.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu-embedded/pdf/cert.zulu11.76.21-ca-jdk11.0.25-linux_aarch32hf.tar.gz.pdf"
         },
         {
           "os": "alpine_linux",
