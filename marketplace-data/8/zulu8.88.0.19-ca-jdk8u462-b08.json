@@ -1,0 +1,90 @@
+{
+  "releases": [
+    {
+      "release_link": "https://www.azul.com/downloads",
+      "release_name": "zulu8.88.0.19-ca-jdk8u462-b08",
+      "last_updated_timestamp": "2025-07-28T12:54:00Z",
+      "binaries": [
+        {
+          "os": "linux",
+          "architecture": "x64",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu8.88.0.19-ca-jdk8.0.462-linux_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu8.88.0.19-ca-jdk8.0.462-linux_x64.tar.gz",
+            "sha265sum": "af194163bd9c870321f06b134f447869daafe6aef5b92b49d15b2fbc03a3b999"
+          },
+          "timestamp": "2025-07-28T12:54:00Z",
+          "scm_ref": "jdk8u462-b08",
+          "openjdk_scm_ref": "jdk8u462-b08",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu8/zulu8.88.0.19-ca-jdk8.0.462-linux_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu8.88.0.19-ca-jdk8.0.462-linux_x64.tar.gz.pdf"
+        },
+        {
+          "os": "linux",
+          "architecture": "x64",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu8.88.0.19-ca-jre8.0.462-linux_x64.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu8.88.0.19-ca-jre8.0.462-linux_x64.tar.gz",
+            "sha265sum": "53c5437b6dbab984296cf3f24b7251e0e0e559417fe7fdd7cc38c43939c65f50"
+          },
+          "timestamp": "2025-07-28T12:54:00Z",
+          "scm_ref": "jdk8u462-b08",
+          "openjdk_scm_ref": "jdk8u462-b08",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu8/zulu8.88.0.19-ca-jre8.0.462-linux_x64.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu8.88.0.19-ca-jre8.0.462-linux_x64.tar.gz.pdf"
+        },
+        {
+          "os": "linux",
+          "architecture": "x86",
+          "image_type": "jdk",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu8.88.0.19-ca-jdk8.0.462-linux_i686.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu8.88.0.19-ca-jdk8.0.462-linux_i686.tar.gz",
+            "sha265sum": "3e611b22e86c3de6c5ac15b7e0f51171f29fdd31bb81f08faaae2c9970f59e29"
+          },
+          "timestamp": "2025-07-28T12:54:00Z",
+          "scm_ref": "jdk8u462-b08",
+          "openjdk_scm_ref": "jdk8u462-b08",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu8/zulu8.88.0.19-ca-jdk8.0.462-linux_i686.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu8.88.0.19-ca-jdk8.0.462-linux_i686.tar.gz.pdf"
+        },
+        {
+          "os": "linux",
+          "architecture": "x86",
+          "image_type": "jre",
+          "jvm_impl": "hotspot",
+          "package": {
+            "name": "zulu8.88.0.19-ca-jre8.0.462-linux_i686.tar.gz",
+            "link": "https://cdn.azul.com/zulu/bin/zulu8.88.0.19-ca-jre8.0.462-linux_i686.tar.gz",
+            "sha265sum": "0d00e3a916f8160e077c99f6270a8174e386c9fe1ae699262550d8c349ae9ca3"
+          },
+          "timestamp": "2025-07-28T12:54:00Z",
+          "scm_ref": "jdk8u462-b08",
+          "openjdk_scm_ref": "jdk8u462-b08",
+          "distribution": "zulu",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu8/zulu8.88.0.19-ca-jre8.0.462-linux_i686.tap.zip",
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu8.88.0.19-ca-jre8.0.462-linux_i686.tar.gz.pdf"
+        }
+      ],
+      "vendor" : "azul",
+      "openjdk_version_data" : {
+        "major" : 8,
+        "minor" : 0,
+        "security" : 462,
+        "patch" : null,
+        "pre" : null,
+        "build" : 8,
+        "optional" : null,
+        "openjdk_version" : "1.8.0_462-b08"
+      }
+    }
+  ]
+}
