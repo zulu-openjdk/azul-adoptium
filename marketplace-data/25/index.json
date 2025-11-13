@@ -1,0 +1,7 @@
+{
+  "schema_version" : "1.0.0",
+  "indexes" : [ ],
+  "releases" : [
+    "zulu25.30.17-ca-jdk-25.0.1+8.json"
+  ]
+}

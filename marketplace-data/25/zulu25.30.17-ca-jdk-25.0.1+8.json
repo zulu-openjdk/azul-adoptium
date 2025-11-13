@@ -19,7 +19,7 @@
           "scm_ref": "jdk-25.0.1+8",
           "openjdk_scm_ref": "jdk-25.0.1+8",
           "distribution": "zulu",
-          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu21/zulu25.30.17-ca-jdk25.0.1-linux_x64.tap.zip",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu25/zulu25.30.17-ca-jdk25.0.1-linux_x64.tap.zip",
           "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu25.30.17-ca-jdk25.0.1-linux_x64.tar.gz.pdf"
         },
         {
@@ -36,7 +36,7 @@
           "scm_ref": "jdk-25.0.1+8",
           "openjdk_scm_ref": "jdk-25.0.1+8",
           "distribution": "zulu",
-          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu21/zulu25.30.17-ca-jre25.0.1-linux_x64.tap.zip",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu25/zulu25.30.17-ca-jre25.0.1-linux_x64.tap.zip",
           "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu25.30.17-ca-jre25.0.1-linux_x64.tar.gz.pdf"
         },
         {
@@ -53,7 +53,7 @@
           "scm_ref": "jdk-25.0.1+8",
           "openjdk_scm_ref": "jdk-25.0.1+8",
           "distribution": "zulu",
-          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu21/zulu25.30.17-ca-jdk25.0.1-linux_aarch64.tap.zip",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu25/zulu25.30.17-ca-jdk25.0.1-linux_aarch64.tap.zip",
           "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu25.30.17-ca-jdk25.0.1-linux_aarch64.tar.gz.pdf"
         },
         {
@@ -70,7 +70,7 @@
           "scm_ref": "jdk-25.0.1+8",
           "openjdk_scm_ref": "jdk-25.0.1+8",
           "distribution": "zulu",
-          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu21/zulu25.30.17-ca-jre25.0.1-linux_aarch64.tap.zip",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu25/zulu25.30.17-ca-jre25.0.1-linux_aarch64.tap.zip",
           "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu25.30.17-ca-jre25.0.1-linux_aarch64.tar.gz.pdf"
         },
         {
@@ -87,7 +87,7 @@
           "scm_ref": "jdk-25.0.1+8",
           "openjdk_scm_ref": "jdk-25.0.1+8",
           "distribution": "zulu",
-          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu21/zulu25.30.17-ca-jdk25.0.1-linux_musl_x64.tap.zip",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu25/zulu25.30.17-ca-jdk25.0.1-linux_musl_x64.tap.zip",
           "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu25.30.17-ca-jdk25.0.1-linux_musl_x64.tar.gz.pdf"
         },
         {
@@ -104,7 +104,7 @@
           "scm_ref": "jdk-25.0.1+8",
           "openjdk_scm_ref": "jdk-25.0.1+8",
           "distribution": "zulu",
-          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu21/zulu25.30.17-ca-jre25.0.1-linux_musl_x64.tap.zip",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu25/zulu25.30.17-ca-jre25.0.1-linux_musl_x64.tap.zip",
           "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu25.30.17-ca-jre25.0.1-linux_musl_x64.tar.gz.pdf"
         },
         {
@@ -121,7 +121,7 @@
           "scm_ref": "jdk-25.0.1+8",
           "openjdk_scm_ref": "jdk-25.0.1+8",
           "distribution": "zulu",
-          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu21/zulu25.30.17-ca-jdk25.0.1-linux_musl_aarch64.tap.zip",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu25/zulu25.30.17-ca-jdk25.0.1-linux_musl_aarch64.tap.zip",
           "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu25.30.17-ca-jdk25.0.1-linux_musl_aarch64.tar.gz.pdf"
         },
         {
@@ -138,7 +138,7 @@
           "scm_ref": "jdk-25.0.1+8",
           "openjdk_scm_ref": "jdk-25.0.1+8",
           "distribution": "zulu",
-          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu21/zulu25.30.17-ca-jre25.0.1-linux_musl_aarch64.tap.zip",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu25/zulu25.30.17-ca-jre25.0.1-linux_musl_aarch64.tap.zip",
           "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu25.30.17-ca-jre25.0.1-linux_musl_aarch64.tar.gz.pdf"
         },
         {
@@ -160,7 +160,7 @@
           "scm_ref": "jdk-25.0.1+8",
           "openjdk_scm_ref": "jdk-25.0.1+8",
           "distribution": "zulu",
-          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu21/zulu25.30.17-ca-jdk25.0.1-win_x64.tap.zip",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu25/zulu25.30.17-ca-jdk25.0.1-win_x64.tap.zip",
           "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu25.30.17-ca-jdk25.0.1-win_x64.zip.pdf"
         },
         {
@@ -182,7 +182,7 @@
           "scm_ref": "jdk-25.0.1+8",
           "openjdk_scm_ref": "jdk-25.0.1+8",
           "distribution": "zulu",
-          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu21/zulu25.30.17-ca-jre25.0.1-win_x64.tap.zip",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu25/zulu25.30.17-ca-jre25.0.1-win_x64.tap.zip",
           "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu25.30.17-ca-jre25.0.1-win_x64.zip.pdf"
         },
         {
@@ -221,7 +221,7 @@
           "scm_ref": "jdk-25.0.1+8",
           "openjdk_scm_ref": "jdk-25.0.1+8",
           "distribution": "zulu",
-          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu21/zulu25.30.17-ca-jdk25.0.1-macosx_x64.tap.zip",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu25/zulu25.30.17-ca-jdk25.0.1-macosx_x64.tap.zip",
           "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu25.30.17-ca-jdk25.0.1-macosx_x64.tar.gz.pdf"
         },
         {
@@ -238,7 +238,7 @@
           "scm_ref": "jdk-25.0.1+8",
           "openjdk_scm_ref": "jdk-25.0.1+8",
           "distribution": "zulu",
-          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu21/zulu25.30.17-ca-jre25.0.1-macosx_x64.tap.zip",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu25/zulu25.30.17-ca-jre25.0.1-macosx_x64.tap.zip",
           "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu25.30.17-ca-jre25.0.1-macosx_x64.tar.gz.pdf"
         },
         {
@@ -260,7 +260,7 @@
           "scm_ref": "jdk-25.0.1+8",
           "openjdk_scm_ref": "jdk-25.0.1+8",
           "distribution": "zulu",
-          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu21/zulu25.30.17-ca-jdk25.0.1-macosx_aarch64.tap.zip",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu25/zulu25.30.17-ca-jdk25.0.1-macosx_aarch64.tap.zip",
           "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu25.30.17-ca-jdk25.0.1-macosx_aarch64.tar.gz.pdf"
         },
         {
@@ -282,7 +282,7 @@
           "scm_ref": "jdk-25.0.1+8",
           "openjdk_scm_ref": "jdk-25.0.1+8",
           "distribution": "zulu",
-          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu21/zulu25.30.17-ca-jre25.0.1-macosx_aarch64.tap.zip",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu25/zulu25.30.17-ca-jre25.0.1-macosx_aarch64.tap.zip",
           "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu25.30.17-ca-jre25.0.1-macosx_aarch64.tar.gz.pdf"
         }
       ],
