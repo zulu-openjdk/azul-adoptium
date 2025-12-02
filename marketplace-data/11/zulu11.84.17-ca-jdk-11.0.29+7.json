@@ -252,8 +252,8 @@
             "sha265sum": "6728cf9727ea4bdb6513598227009482eeacd664a5c91337b1785811d34fd7d9"
           },
           "installer" : [ {
-            "name" : "zulu11.84.17-ca-jre11.0.29-win_x64.msi",
-            "link" : "https://cdn.azul.com/zulu/bin/zulu11.84.17-ca-jre11.0.29-win_x64.msi",
+            "name" : "zulu11.84.17-ca-jre11.0.29-win_i686.msi",
+            "link" : "https://cdn.azul.com/zulu/bin/zulu11.84.17-ca-jre11.0.29-win_i686.msi",
             "sha265sum" : "8f546abb14db9546d8370f383d9aa36e5f26c84e7166fa51f563bbf4f0933e35"
           } ],
           "timestamp": "2025-10-21T15:35:00Z",
@@ -394,7 +394,7 @@
           "scm_ref": "jdk-11.0.29+7",
           "openjdk_scm_ref": "jdk-11.0.29+7",
           "distribution": "zulu",
-          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.84.17-ca-jdk11.0.29-solaris_sparcv9.zip",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu11/zulu11.84.17-ca-jdk11.0.29-solaris_sparcv9.tap.zip",
           "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu11.84.17-ca-jdk11.0.29-solaris_sparcv9.zip.pdf"
         },
         {
