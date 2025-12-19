@@ -199,7 +199,7 @@
           "scm_ref": "jdk-25.0.1+8",
           "openjdk_scm_ref": "jdk-25.0.1+8",
           "distribution": "zulu",
-          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu17/zulu25.30.17-ca-jdk25.0.1-win_aarch64.tap.zip",
+          "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu25/zulu25.30.17-ca-jdk25.0.1-win_aarch64.tap.zip",
           "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu25.30.17-ca-jdk25.0.1-win_aarch64.zip.pdf"
         },
         {
