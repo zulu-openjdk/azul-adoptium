@@ -132,14 +132,14 @@
           "package": {
             "name": "zulu8.92.0.21-ca-jre8.0.482-linux_musl_x64.tar.gz",
             "link": "https://cdn.azul.com/zulu/bin/zulu8.92.0.21-ca-jre8.0.482-linux_musl_x64.tar.gz",
-            "sha265sum": "ae60790c2ae340ce2b6e2ccdcc4a50e4dd023816bc85c877e8d43cc383457eb3"
+            "sha265sum": "ffe3b67f30b2e6ccfc69b6c6493450b378bb9ab3b3d96cec9550933ab7bee38b"
           },
           "timestamp": "2026-01-30T16:38:00Z",
           "scm_ref": "jdk8u482-b08",
           "openjdk_scm_ref": "jdk8u482-b08",
           "distribution": "zulu",
           "aqavit_results_link": "https://raw.githubusercontent.com/zulu-openjdk/azul-adoptium/main/aqa-test-results/zulu8/zulu8.92.0.21-ca-jre8.0.482-linux_musl_x64.tap.zip",
-          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu8.92.0.21-ca-jre8.0.482-linux_musl_x64.tar.gz.gz.pdf"
+          "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu8.92.0.21-ca-jre8.0.482-linux_musl_x64.tar.gz.pdf"
         },
         {
           "os": "alpine_linux",
